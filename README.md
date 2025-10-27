@@ -34,6 +34,8 @@
     <li>For Linux: pkg . --output dist/reporting-tool --targets node18-linux-x64</li>
 </ul>
 
+<p><strong>Note:</strong> ensure you <b>turn off the anti-virus real-time scanning</b> before running this command. Otherwise, the exe gets quarantined, since it’s not code-signed project yet. You should also ensure the <b>anti-virus real-time scanning is turned off</b> every time you run this exe.</p>
+
 <strong>Exe File Requirements</strong>
 <p>The exe needs following files to function. These files and folders are to be copied into the /dist folder containing the generated exe file.</p>
 <ul>
@@ -43,7 +45,7 @@
 </ul>
     
    
-<p><strong>Note:</strong> ensure you <b>turn off the anti-virus real-time scanning</b> before running this command. Otherwise, the exe gets quarantined, since it’s not code-signed project yet. You should also ensure the <b>anti-virus real-time scanning is turned off</b> every time you run this exe.</p>
+
 <p>For more info on how to operate the reporting tool, read the <b>help documentation</b>: https://m365corner.com/m365-free-tools/community-edition-techdoc.docx</p>   
 <p>For more info on <b>M365Corner Reporting Tool and the reports it has to offer</b>, along with their demos read: https://m365corner.com/m365-free-tools/m365-corner-reporting-tool.html</p>
 
