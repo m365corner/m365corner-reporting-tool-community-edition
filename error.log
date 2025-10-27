@@ -1,0 +1,2728 @@
+[2025-07-07T04:18:07.116Z] 🚀 Server running on http://localhost:3001
+[2025-07-07T04:59:43.850Z] 🚀 Server running on http://localhost:3001
+[2025-07-07T05:34:20.498Z] 🚀 Server running on http://localhost:3001
+[2025-07-07T05:52:17.866Z] 🚀 Server running on http://localhost:3001
+[2025-07-07T06:16:48.021Z] 🚀 Server running on http://localhost:3001
+[2025-07-08T10:15:47.275Z] 🚀 Server running on http://localhost:3001
+[2025-07-08T10:15:47.282Z] 🚀 Server running on http://localhost:3001
+[2025-07-08T10:45:31.147Z] 🚀 Server running on http://localhost:3001
+[2025-07-08T10:45:31.154Z] 🚀 Server running on http://localhost:3001
+[2025-07-08T12:01:58.415Z] 🚀 Server running on http://localhost:3001
+[2025-07-08T12:01:58.423Z] 🚀 Server running on http://localhost:3001
+[2025-07-10T05:45:33.784Z] STEP: Starting serverStart.js
+[2025-07-10T05:45:33.807Z] Missing database file: Error: DB not found at C:\Program Files\nodejs\premium-tool-3.db
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged\serverStart.js:21:37)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged\server.js:32:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2025-07-10T05:47:23.338Z] STEP: Starting serverStart.js
+[2025-07-10T05:47:23.339Z] Missing database file: Error: DB not found at C:\Program Files\nodejs\premium-tool-3.db
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged\serverStart.js:21:37)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged\server_old.js:15:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2025-07-15T07:42:17.023Z] server.js booted
+[2025-07-15T07:42:17.030Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T07:42:17.265Z] Error loading serverStart: Error: Cannot find module '../db'
+Require stack:
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\routes\reportRoutes.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\routes\reportRoutes.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-07-15T08:55:57.423Z] server.js booted
+[2025-07-15T08:55:57.430Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T08:55:57.675Z] Error loading serverStart: Error: Cannot find module '../db'
+Require stack:
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\routes\reportRoutes.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\routes\reportRoutes.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-07-15T08:56:32.452Z] server.js booted
+[2025-07-15T08:56:32.457Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T08:56:32.752Z] STEP: Starting serverStart.js
+[2025-07-15T08:56:32.758Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T09:17:34.429Z] server.js booted
+[2025-07-15T09:17:34.433Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T09:17:34.629Z] STEP: Starting serverStart.js
+[2025-07-15T09:17:34.635Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T09:18:05.186Z] server.js booted
+[2025-07-15T09:18:05.191Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T09:18:05.433Z] STEP: Starting serverStart.js
+[2025-07-15T09:18:05.439Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T09:21:59.227Z] server.js booted
+[2025-07-15T09:21:59.232Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T09:21:59.469Z] STEP: Starting serverStart.js
+[2025-07-15T09:21:59.475Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T10:05:51.665Z] server.js booted
+[2025-07-15T10:05:51.671Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T10:05:51.923Z] Error loading serverStart: Error: Cannot find module '@microsoft/microsoft-graph-client'
+Require stack:
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-07-15T10:18:56.237Z] server.js booted
+[2025-07-15T10:18:56.245Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T10:18:56.449Z] STEP: Starting serverStart.js
+[2025-07-15T10:18:56.454Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T10:19:33.959Z] server.js booted
+[2025-07-15T10:19:33.965Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T10:19:34.156Z] STEP: Starting serverStart.js
+[2025-07-15T10:19:34.162Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T10:21:29.085Z] server.js booted
+[2025-07-15T10:21:29.090Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T10:21:29.281Z] STEP: Starting serverStart.js
+[2025-07-15T10:21:29.290Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T10:23:11.965Z] server.js booted
+[2025-07-15T10:23:11.972Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T10:23:12.170Z] STEP: Starting serverStart.js
+[2025-07-15T10:23:12.176Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T10:23:42.815Z] server.js booted
+[2025-07-15T10:23:42.821Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T10:23:43.010Z] STEP: Starting serverStart.js
+[2025-07-15T10:23:43.016Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T10:49:59.318Z] server.js booted
+[2025-07-15T10:49:59.323Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T10:49:59.530Z] STEP: Starting serverStart.js
+[2025-07-15T10:49:59.535Z] 🚀 Server running on http://localhost:3001
+[2025-07-15T12:04:13.921Z] server.js booted
+[2025-07-15T12:04:13.927Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-15T12:04:14.137Z] STEP: Starting serverStart.js
+[2025-07-15T12:04:14.144Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T05:40:46.195Z] server.js booted
+[2025-07-16T05:40:46.202Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T05:40:46.435Z] STEP: Starting serverStart.js
+[2025-07-16T05:40:46.441Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T06:19:27.572Z] server.js booted
+[2025-07-16T06:19:27.577Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T06:19:27.783Z] STEP: Starting serverStart.js
+[2025-07-16T06:19:27.788Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T06:20:27.049Z] server.js booted
+[2025-07-16T06:20:27.055Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T06:20:27.293Z] STEP: Starting serverStart.js
+[2025-07-16T06:20:27.299Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T06:46:23.492Z] server.js booted
+[2025-07-16T06:46:23.495Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T06:46:23.630Z] STEP: Starting serverStart.js
+[2025-07-16T06:46:23.634Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T06:52:37.114Z] server.js booted
+[2025-07-16T06:52:37.116Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T06:52:37.266Z] STEP: Starting serverStart.js
+[2025-07-16T06:52:37.270Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T07:24:34.487Z] server.js booted
+[2025-07-16T07:24:34.492Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T07:24:34.694Z] STEP: Starting serverStart.js
+[2025-07-16T07:24:34.699Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T07:30:25.448Z] server.js booted
+[2025-07-16T07:30:25.453Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T07:30:25.667Z] STEP: Starting serverStart.js
+[2025-07-16T07:30:25.673Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T11:48:56.300Z] server.js booted
+[2025-07-16T11:48:56.304Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T11:48:56.530Z] STEP: Starting serverStart.js
+[2025-07-16T11:48:56.535Z] 🚀 Server running on http://localhost:3001
+[2025-07-16T12:59:21.298Z] server.js booted
+[2025-07-16T12:59:21.306Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-16T12:59:21.530Z] STEP: Starting serverStart.js
+[2025-07-16T12:59:21.536Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T05:05:52.371Z] server.js booted
+[2025-07-17T05:05:52.377Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T05:05:52.608Z] STEP: Starting serverStart.js
+[2025-07-17T05:05:52.614Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T05:44:23.013Z] server.js booted
+[2025-07-17T05:44:23.018Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T05:44:23.233Z] STEP: Starting serverStart.js
+[2025-07-17T05:44:23.239Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T05:52:22.170Z] server.js booted
+[2025-07-17T05:52:22.176Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T05:52:22.386Z] STEP: Starting serverStart.js
+[2025-07-17T05:52:22.393Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T06:03:23.306Z] server.js booted
+[2025-07-17T06:03:23.311Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T06:03:23.515Z] STEP: Starting serverStart.js
+[2025-07-17T06:03:23.520Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T06:04:03.359Z] server.js booted
+[2025-07-17T06:04:03.366Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T06:04:03.561Z] STEP: Starting serverStart.js
+[2025-07-17T06:04:03.566Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T06:04:26.982Z] server.js booted
+[2025-07-17T06:04:26.987Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T06:04:27.208Z] STEP: Starting serverStart.js
+[2025-07-17T06:04:27.214Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T06:26:22.868Z] server.js booted
+[2025-07-17T06:26:22.873Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T06:26:23.087Z] STEP: Starting serverStart.js
+[2025-07-17T06:26:23.092Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T07:11:45.896Z] server.js booted
+[2025-07-17T07:11:45.900Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T07:11:46.032Z] STEP: Starting serverStart.js
+[2025-07-17T07:11:46.037Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T07:52:43.701Z] server.js booted
+[2025-07-17T07:52:43.707Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T07:52:43.925Z] STEP: Starting serverStart.js
+[2025-07-17T07:52:43.930Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T09:15:09.743Z] server.js booted
+[2025-07-17T09:15:09.752Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T09:15:10.134Z] STEP: Starting serverStart.js
+[2025-07-17T09:15:10.141Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T09:32:15.361Z] server.js booted
+[2025-07-17T09:32:15.367Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T09:32:15.577Z] STEP: Starting serverStart.js
+[2025-07-17T09:32:15.582Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T09:39:52.518Z] server.js booted
+[2025-07-17T09:39:52.521Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T09:39:52.654Z] STEP: Starting serverStart.js
+[2025-07-17T09:39:52.657Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T09:40:16.638Z] server.js booted
+[2025-07-17T09:40:16.641Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T09:40:16.796Z] STEP: Starting serverStart.js
+[2025-07-17T09:40:16.800Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T09:40:58.199Z] server.js booted
+[2025-07-17T09:40:58.203Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T09:40:58.336Z] STEP: Starting serverStart.js
+[2025-07-17T09:40:58.339Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T09:44:22.944Z] server.js booted
+[2025-07-17T09:44:22.948Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T09:44:23.080Z] STEP: Starting serverStart.js
+[2025-07-17T09:44:23.083Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T09:44:42.942Z] server.js booted
+[2025-07-17T09:44:42.946Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T09:44:43.103Z] STEP: Starting serverStart.js
+[2025-07-17T09:44:43.106Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T10:00:08.780Z] server.js booted
+[2025-07-17T10:00:08.787Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T10:00:08.937Z] STEP: Starting serverStart.js
+[2025-07-17T10:00:08.940Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T10:13:02.024Z] server.js booted
+[2025-07-17T10:13:02.028Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T10:13:02.158Z] STEP: Starting serverStart.js
+[2025-07-17T10:13:02.162Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T10:21:48.298Z] server.js booted
+[2025-07-17T10:21:48.303Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T10:21:48.535Z] STEP: Starting serverStart.js
+[2025-07-17T10:21:48.540Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T10:22:33.649Z] server.js booted
+[2025-07-17T10:22:33.656Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T10:22:33.909Z] STEP: Starting serverStart.js
+[2025-07-17T10:22:33.916Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T10:28:54.339Z] server.js booted
+[2025-07-17T10:28:54.344Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T10:28:54.546Z] STEP: Starting serverStart.js
+[2025-07-17T10:28:54.552Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T11:12:33.473Z] server.js booted
+[2025-07-17T11:12:33.479Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T11:12:33.682Z] STEP: Starting serverStart.js
+[2025-07-17T11:12:33.687Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T12:29:07.604Z] server.js booted
+[2025-07-17T12:29:07.611Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T12:29:07.867Z] STEP: Starting serverStart.js
+[2025-07-17T12:29:07.872Z] 🚀 Server running on http://localhost:3001
+[2025-07-17T13:02:57.852Z] server.js booted
+[2025-07-17T13:02:57.856Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-17T13:02:58.022Z] STEP: Starting serverStart.js
+[2025-07-17T13:02:58.028Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T06:00:30.589Z] server.js booted
+[2025-07-18T06:00:30.593Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T06:00:30.829Z] STEP: Starting serverStart.js
+[2025-07-18T06:00:30.832Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T06:03:51.584Z] server.js booted
+[2025-07-18T06:03:51.588Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T06:03:51.715Z] STEP: Starting serverStart.js
+[2025-07-18T06:03:51.718Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T06:19:10.629Z] server.js booted
+[2025-07-18T06:19:10.632Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T06:19:10.759Z] STEP: Starting serverStart.js
+[2025-07-18T06:19:10.764Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:07:40.757Z] server.js booted
+[2025-07-18T07:07:40.764Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:07:41.036Z] STEP: Starting serverStart.js
+[2025-07-18T07:07:41.042Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:15:12.576Z] server.js booted
+[2025-07-18T07:15:12.582Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:15:12.781Z] STEP: Starting serverStart.js
+[2025-07-18T07:15:12.788Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:17:13.189Z] server.js booted
+[2025-07-18T07:17:13.195Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:17:13.392Z] STEP: Starting serverStart.js
+[2025-07-18T07:17:13.398Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:20:45.209Z] server.js booted
+[2025-07-18T07:20:45.214Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:20:45.425Z] STEP: Starting serverStart.js
+[2025-07-18T07:20:45.431Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:21:12.717Z] server.js booted
+[2025-07-18T07:21:12.723Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:21:12.953Z] STEP: Starting serverStart.js
+[2025-07-18T07:21:12.959Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:22:28.310Z] server.js booted
+[2025-07-18T07:22:28.315Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:22:28.526Z] STEP: Starting serverStart.js
+[2025-07-18T07:22:28.532Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:23:05.397Z] server.js booted
+[2025-07-18T07:23:05.405Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:23:05.648Z] STEP: Starting serverStart.js
+[2025-07-18T07:23:05.654Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:30:19.485Z] server.js booted
+[2025-07-18T07:30:19.490Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:30:19.757Z] STEP: Starting serverStart.js
+[2025-07-18T07:30:19.763Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:36:50.140Z] server.js booted
+[2025-07-18T07:36:50.146Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:36:50.370Z] STEP: Starting serverStart.js
+[2025-07-18T07:36:50.376Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:46:25.732Z] server.js booted
+[2025-07-18T07:46:25.738Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:46:25.936Z] STEP: Starting serverStart.js
+[2025-07-18T07:46:25.941Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:54:45.383Z] server.js booted
+[2025-07-18T07:54:45.389Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:54:45.620Z] STEP: Starting serverStart.js
+[2025-07-18T07:54:45.626Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T07:57:26.735Z] server.js booted
+[2025-07-18T07:57:26.741Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T07:57:26.942Z] STEP: Starting serverStart.js
+[2025-07-18T07:57:26.948Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T08:57:59.269Z] server.js booted
+[2025-07-18T08:57:59.273Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T08:57:59.275Z] Error loading serverStart: C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js:22
+const dbFile = path.join(baseDir, "testDB.db");
+      ^
+
+SyntaxError: Identifier 'dbFile' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at main (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js:24:5)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js:31:1)
+[2025-07-18T08:59:20.777Z] server.js booted
+[2025-07-18T08:59:20.780Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T08:59:20.927Z] STEP: Starting serverStart.js
+[2025-07-18T08:59:20.928Z] Error loading serverStart: ReferenceError: publicDir is not defined
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js:30:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at main (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js:24:5)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js:31:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+[2025-07-18T08:59:58.990Z] server.js booted
+[2025-07-18T08:59:58.993Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T08:59:59.120Z] STEP: Starting serverStart.js
+[2025-07-18T08:59:59.123Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T11:21:22.856Z] server.js booted
+[2025-07-18T11:21:22.862Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T11:21:23.113Z] STEP: Starting serverStart.js
+[2025-07-18T11:21:23.118Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T11:24:50.426Z] server.js booted
+[2025-07-18T11:24:50.431Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T11:24:50.629Z] STEP: Starting serverStart.js
+[2025-07-18T11:24:50.634Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T11:33:21.151Z] server.js booted
+[2025-07-18T11:33:21.157Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T11:33:21.368Z] STEP: Starting serverStart.js
+[2025-07-18T11:33:21.374Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T11:34:01.895Z] server.js booted
+[2025-07-18T11:34:01.901Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T11:34:02.105Z] STEP: Starting serverStart.js
+[2025-07-18T11:34:02.113Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T11:39:06.958Z] server.js booted
+[2025-07-18T11:39:06.963Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T11:39:07.195Z] STEP: Starting serverStart.js
+[2025-07-18T11:39:07.203Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T12:44:39.848Z] server.js booted
+[2025-07-18T12:44:39.854Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T12:44:40.121Z] STEP: Starting serverStart.js
+[2025-07-18T12:44:40.127Z] 🚀 Server running on http://localhost:3001
+[2025-07-18T12:48:39.939Z] server.js booted
+[2025-07-18T12:48:39.946Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-18T12:48:40.193Z] STEP: Starting serverStart.js
+[2025-07-18T12:48:40.202Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T06:30:52.751Z] server.js booted
+[2025-07-19T06:30:52.765Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T06:30:53.019Z] STEP: Starting serverStart.js
+[2025-07-19T06:30:53.024Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T06:40:51.301Z] server.js booted
+[2025-07-19T06:40:51.307Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T06:40:51.520Z] STEP: Starting serverStart.js
+[2025-07-19T06:40:51.525Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T06:41:11.964Z] server.js booted
+[2025-07-19T06:41:11.971Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T06:41:12.185Z] STEP: Starting serverStart.js
+[2025-07-19T06:41:12.192Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T06:42:46.830Z] server.js booted
+[2025-07-19T06:42:46.835Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T06:42:47.051Z] STEP: Starting serverStart.js
+[2025-07-19T06:42:47.056Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T06:43:08.134Z] server.js booted
+[2025-07-19T06:43:08.140Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T06:43:08.337Z] STEP: Starting serverStart.js
+[2025-07-19T06:43:08.343Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T06:43:40.614Z] server.js booted
+[2025-07-19T06:43:40.619Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T06:43:40.819Z] STEP: Starting serverStart.js
+[2025-07-19T06:43:40.824Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T06:52:02.329Z] server.js booted
+[2025-07-19T06:52:02.335Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T06:52:02.547Z] Error loading serverStart: Error: Cannot find module './utils/logger'
+Require stack:
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-07-19T07:03:05.391Z] server.js booted
+[2025-07-19T07:03:05.396Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T07:03:05.597Z] STEP: Starting serverStart.js
+[2025-07-19T07:03:05.603Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T07:15:34.771Z] server.js booted
+[2025-07-19T07:15:34.776Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T07:15:34.980Z] STEP: Starting serverStart.js
+[2025-07-19T07:15:34.985Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T07:16:27.315Z] server.js booted
+[2025-07-19T07:16:27.320Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T07:16:27.533Z] STEP: Starting serverStart.js
+[2025-07-19T07:16:27.539Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T07:23:24.545Z] server.js booted
+[2025-07-19T07:23:24.549Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T07:23:24.754Z] STEP: Starting serverStart.js
+[2025-07-19T07:23:24.760Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T07:23:39.421Z] server.js booted
+[2025-07-19T07:23:39.426Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T07:23:39.629Z] STEP: Starting serverStart.js
+[2025-07-19T07:23:39.634Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T07:23:58.642Z] server.js booted
+[2025-07-19T07:23:58.647Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T07:23:58.873Z] STEP: Starting serverStart.js
+[2025-07-19T07:23:58.880Z] 🚀 Server running on http://localhost:3001
+[2025-07-19T09:40:40.869Z] server.js booted
+[2025-07-19T09:40:40.875Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-19T09:40:41.144Z] STEP: Starting serverStart.js
+[2025-07-19T09:40:41.151Z] 🚀 Server running on http://localhost:3001
+[2025-07-20T08:14:45.895Z] server.js booted
+[2025-07-20T08:14:45.901Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-20T08:14:46.183Z] STEP: Starting serverStart.js
+[2025-07-20T08:14:46.189Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T05:47:57.395Z] server.js booted
+[2025-07-21T05:47:57.401Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T05:47:57.632Z] STEP: Starting serverStart.js
+[2025-07-21T05:47:57.638Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T07:21:26.920Z] server.js booted
+[2025-07-21T07:21:26.926Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T07:21:27.263Z] STEP: Starting serverStart.js
+[2025-07-21T07:21:27.271Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T07:21:55.387Z] server.js booted
+[2025-07-21T07:21:55.392Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T07:21:55.598Z] STEP: Starting serverStart.js
+[2025-07-21T07:21:55.603Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T07:22:12.431Z] server.js booted
+[2025-07-21T07:22:12.436Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T07:22:12.643Z] STEP: Starting serverStart.js
+[2025-07-21T07:22:12.651Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T07:46:34.071Z] server.js booted
+[2025-07-21T07:46:34.078Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T07:46:34.287Z] STEP: Starting serverStart.js
+[2025-07-21T07:46:34.293Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T11:58:29.037Z] server.js booted
+[2025-07-21T11:58:29.043Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T11:58:29.281Z] STEP: Starting serverStart.js
+[2025-07-21T11:58:29.287Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T12:05:56.229Z] server.js booted
+[2025-07-21T12:05:56.235Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T12:05:56.469Z] STEP: Starting serverStart.js
+[2025-07-21T12:05:56.476Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T12:19:15.860Z] server.js booted
+[2025-07-21T12:19:15.867Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T12:19:16.088Z] STEP: Starting serverStart.js
+[2025-07-21T12:19:16.093Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T12:30:13.027Z] server.js booted
+[2025-07-21T12:30:13.033Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T12:30:13.267Z] STEP: Starting serverStart.js
+[2025-07-21T12:30:13.273Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T12:46:31.982Z] server.js booted
+[2025-07-21T12:46:31.988Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T12:46:32.217Z] STEP: Starting serverStart.js
+[2025-07-21T12:46:32.223Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T13:03:29.468Z] server.js booted
+[2025-07-21T13:03:29.475Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T13:03:29.707Z] STEP: Starting serverStart.js
+[2025-07-21T13:03:29.712Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T13:08:30.360Z] server.js booted
+[2025-07-21T13:08:30.363Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T13:08:30.501Z] STEP: Starting serverStart.js
+[2025-07-21T13:08:30.505Z] 🚀 Server running on http://localhost:3001
+[2025-07-21T13:10:17.228Z] server.js booted
+[2025-07-21T13:10:17.234Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-21T13:10:17.390Z] STEP: Starting serverStart.js
+[2025-07-21T13:10:17.393Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T05:47:48.341Z] server.js booted
+[2025-07-22T05:47:48.346Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T05:47:48.622Z] STEP: Starting serverStart.js
+[2025-07-22T05:47:48.631Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T06:01:31.158Z] server.js booted
+[2025-07-22T06:01:31.165Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T06:01:31.370Z] STEP: Starting serverStart.js
+[2025-07-22T06:01:31.375Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T07:13:26.970Z] server.js booted
+[2025-07-22T07:13:26.973Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T07:13:27.127Z] STEP: Starting serverStart.js
+[2025-07-22T07:13:27.130Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T07:13:51.312Z] server.js booted
+[2025-07-22T07:13:51.315Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T07:13:51.446Z] STEP: Starting serverStart.js
+[2025-07-22T07:13:51.450Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T09:03:21.809Z] server.js booted
+[2025-07-22T09:03:21.817Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T09:03:22.090Z] STEP: Starting serverStart.js
+[2025-07-22T09:03:22.095Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T09:17:12.798Z] server.js booted
+[2025-07-22T09:17:12.804Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T09:17:13.046Z] STEP: Starting serverStart.js
+[2025-07-22T09:17:13.053Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T09:17:55.964Z] server.js booted
+[2025-07-22T09:17:55.970Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T09:17:56.210Z] STEP: Starting serverStart.js
+[2025-07-22T09:17:56.216Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T09:19:35.318Z] server.js booted
+[2025-07-22T09:19:35.323Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T09:19:35.526Z] STEP: Starting serverStart.js
+[2025-07-22T09:19:35.531Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T09:21:23.300Z] server.js booted
+[2025-07-22T09:21:23.306Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T09:21:23.506Z] STEP: Starting serverStart.js
+[2025-07-22T09:21:23.511Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T09:21:42.245Z] server.js booted
+[2025-07-22T09:21:42.250Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T09:21:42.453Z] STEP: Starting serverStart.js
+[2025-07-22T09:21:42.460Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T09:22:15.443Z] server.js booted
+[2025-07-22T09:22:15.448Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T09:22:15.661Z] STEP: Starting serverStart.js
+[2025-07-22T09:22:15.670Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T09:55:30.027Z] server.js booted
+[2025-07-22T09:55:30.034Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T09:55:30.255Z] STEP: Starting serverStart.js
+[2025-07-22T09:55:30.261Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T10:38:09.526Z] server.js booted
+[2025-07-22T10:38:09.532Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T10:38:09.797Z] STEP: Starting serverStart.js
+[2025-07-22T10:38:09.804Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T12:18:23.777Z] server.js booted
+[2025-07-22T12:18:23.785Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T12:18:24.105Z] STEP: Starting serverStart.js
+[2025-07-22T12:18:24.112Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T12:18:46.933Z] server.js booted
+[2025-07-22T12:18:46.938Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T12:18:47.142Z] STEP: Starting serverStart.js
+[2025-07-22T12:18:47.148Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T12:34:30.701Z] server.js booted
+[2025-07-22T12:34:30.706Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T12:34:30.922Z] STEP: Starting serverStart.js
+[2025-07-22T12:34:30.928Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T12:35:08.196Z] server.js booted
+[2025-07-22T12:35:08.201Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T12:35:08.462Z] STEP: Starting serverStart.js
+[2025-07-22T12:35:08.467Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T12:46:11.965Z] server.js booted
+[2025-07-22T12:46:11.971Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T12:46:12.230Z] STEP: Starting serverStart.js
+[2025-07-22T12:46:12.236Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T12:46:43.269Z] server.js booted
+[2025-07-22T12:46:43.277Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T12:46:43.503Z] STEP: Starting serverStart.js
+[2025-07-22T12:46:43.509Z] 🚀 Server running on http://localhost:3001
+[2025-07-22T12:47:07.858Z] server.js booted
+[2025-07-22T12:47:07.863Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-22T12:47:08.083Z] STEP: Starting serverStart.js
+[2025-07-22T12:47:08.088Z] 🚀 Server running on http://localhost:3001
+[2025-07-23T04:31:12.572Z] server.js booted
+[2025-07-23T04:31:12.576Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-23T04:31:12.728Z] STEP: Starting serverStart.js
+[2025-07-23T04:31:12.731Z] 🚀 Server running on http://localhost:3001
+[2025-07-23T04:53:07.795Z] server.js booted
+[2025-07-23T04:53:07.802Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-23T04:53:08.024Z] STEP: Starting serverStart.js
+[2025-07-23T04:53:08.029Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T03:44:27.690Z] server.js booted
+[2025-07-24T03:44:27.698Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T03:44:27.904Z] STEP: Starting serverStart.js
+[2025-07-24T03:44:27.911Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T04:30:41.200Z] server.js booted
+[2025-07-24T04:30:41.206Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T04:30:41.417Z] STEP: Starting serverStart.js
+[2025-07-24T04:30:41.424Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T04:43:56.926Z] server.js booted
+[2025-07-24T04:43:56.931Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T04:43:57.146Z] STEP: Starting serverStart.js
+[2025-07-24T04:43:57.150Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T05:12:20.870Z] server.js booted
+[2025-07-24T05:12:20.875Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T05:12:21.036Z] STEP: Starting serverStart.js
+[2025-07-24T05:12:21.040Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T05:12:54.694Z] server.js booted
+[2025-07-24T05:12:54.700Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T05:12:54.835Z] STEP: Starting serverStart.js
+[2025-07-24T05:12:54.839Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T05:37:39.338Z] server.js booted
+[2025-07-24T05:37:39.343Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T05:37:39.555Z] STEP: Starting serverStart.js
+[2025-07-24T05:37:39.560Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T05:42:09.677Z] server.js booted
+[2025-07-24T05:42:09.683Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T05:42:09.899Z] STEP: Starting serverStart.js
+[2025-07-24T05:42:09.905Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T07:17:26.558Z] server.js booted
+[2025-07-24T07:17:26.564Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T07:17:26.863Z] Error loading serverStart: ReferenceError: verifyToken is not defined
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\routes\reportRoutes.js:813:47)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2025-07-24T07:18:04.977Z] server.js booted
+[2025-07-24T07:18:04.982Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T07:18:05.201Z] STEP: Starting serverStart.js
+[2025-07-24T07:18:05.206Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T07:25:59.942Z] server.js booted
+[2025-07-24T07:25:59.947Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T07:26:00.159Z] STEP: Starting serverStart.js
+[2025-07-24T07:26:00.164Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T07:30:36.462Z] server.js booted
+[2025-07-24T07:30:36.469Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T07:30:36.721Z] Error loading serverStart: ReferenceError: verifyToken is not defined
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\routes\reportRoutes.js:874:47)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2025-07-24T07:30:47.035Z] server.js booted
+[2025-07-24T07:30:47.040Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T07:30:47.254Z] STEP: Starting serverStart.js
+[2025-07-24T07:30:47.260Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T09:16:37.636Z] server.js booted
+[2025-07-24T09:16:37.640Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T09:16:37.776Z] STEP: Starting serverStart.js
+[2025-07-24T09:16:37.780Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T09:33:11.950Z] server.js booted
+[2025-07-24T09:33:11.955Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T09:33:12.167Z] Error loading serverStart: ReferenceError: verifyToken is not defined
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\routes\reportRoutes.js:881:47)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2025-07-24T09:33:38.909Z] server.js booted
+[2025-07-24T09:33:38.914Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T09:33:39.119Z] STEP: Starting serverStart.js
+[2025-07-24T09:33:39.124Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T09:40:49.251Z] server.js booted
+[2025-07-24T09:40:49.257Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T09:40:49.460Z] Error loading serverStart: ReferenceError: verifyToken is not defined
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\routes\reportRoutes.js:881:47)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2025-07-24T09:41:04.962Z] server.js booted
+[2025-07-24T09:41:04.967Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T09:41:05.191Z] STEP: Starting serverStart.js
+[2025-07-24T09:41:05.197Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T09:41:38.909Z] server.js booted
+[2025-07-24T09:41:38.916Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T09:41:39.140Z] STEP: Starting serverStart.js
+[2025-07-24T09:41:39.145Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T09:55:48.321Z] server.js booted
+[2025-07-24T09:55:48.327Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T09:55:48.528Z] STEP: Starting serverStart.js
+[2025-07-24T09:55:48.533Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T10:12:47.349Z] server.js booted
+[2025-07-24T10:12:47.360Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T10:12:47.492Z] STEP: Starting serverStart.js
+[2025-07-24T10:12:47.496Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T10:13:14.038Z] server.js booted
+[2025-07-24T10:13:14.043Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T10:13:14.178Z] STEP: Starting serverStart.js
+[2025-07-24T10:13:14.182Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T10:13:30.532Z] server.js booted
+[2025-07-24T10:13:30.535Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T10:13:30.665Z] STEP: Starting serverStart.js
+[2025-07-24T10:13:30.668Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T10:27:15.310Z] server.js booted
+[2025-07-24T10:27:15.314Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T10:27:15.462Z] STEP: Starting serverStart.js
+[2025-07-24T10:27:15.466Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T10:30:09.958Z] server.js booted
+[2025-07-24T10:30:09.963Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T10:30:10.095Z] STEP: Starting serverStart.js
+[2025-07-24T10:30:10.098Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T10:30:31.793Z] server.js booted
+[2025-07-24T10:30:31.796Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T10:30:31.930Z] STEP: Starting serverStart.js
+[2025-07-24T10:30:31.933Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T10:37:55.908Z] server.js booted
+[2025-07-24T10:37:55.916Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T10:37:56.056Z] STEP: Starting serverStart.js
+[2025-07-24T10:37:56.060Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T10:39:07.179Z] server.js booted
+[2025-07-24T10:39:07.183Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T10:39:07.376Z] STEP: Starting serverStart.js
+[2025-07-24T10:39:07.380Z] 🚀 Server running on http://localhost:3001
+[2025-07-24T11:51:57.895Z] server.js booted
+[2025-07-24T11:51:57.902Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-24T11:51:58.170Z] STEP: Starting serverStart.js
+[2025-07-24T11:51:58.175Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T04:33:45.505Z] server.js booted
+[2025-07-25T04:33:45.512Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T04:33:45.734Z] STEP: Starting serverStart.js
+[2025-07-25T04:33:45.740Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T06:18:25.724Z] server.js booted
+[2025-07-25T06:18:25.729Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T06:18:25.994Z] STEP: Starting serverStart.js
+[2025-07-25T06:18:25.999Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T06:33:14.759Z] server.js booted
+[2025-07-25T06:33:14.766Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T06:33:14.984Z] STEP: Starting serverStart.js
+[2025-07-25T06:33:14.990Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T07:21:24.651Z] server.js booted
+[2025-07-25T07:21:24.657Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T07:21:24.826Z] STEP: Starting serverStart.js
+[2025-07-25T07:21:24.830Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T07:45:19.338Z] server.js booted
+[2025-07-25T07:45:19.344Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T07:45:19.554Z] STEP: Starting serverStart.js
+[2025-07-25T07:45:19.560Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T07:45:52.207Z] server.js booted
+[2025-07-25T07:45:52.213Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T07:45:52.417Z] STEP: Starting serverStart.js
+[2025-07-25T07:45:52.422Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T07:48:53.304Z] server.js booted
+[2025-07-25T07:48:53.310Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T07:48:53.525Z] STEP: Starting serverStart.js
+[2025-07-25T07:48:53.531Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T10:00:18.078Z] server.js booted
+[2025-07-25T10:00:18.083Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T10:00:18.371Z] STEP: Starting serverStart.js
+[2025-07-25T10:00:18.378Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T10:35:52.960Z] server.js booted
+[2025-07-25T10:35:52.963Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T10:35:53.137Z] STEP: Starting serverStart.js
+[2025-07-25T10:35:53.141Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T12:36:37.376Z] server.js booted
+[2025-07-25T12:36:37.382Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T12:36:37.648Z] STEP: Starting serverStart.js
+[2025-07-25T12:36:37.653Z] 🚀 Server running on http://localhost:3001
+[2025-07-25T12:40:59.058Z] server.js booted
+[2025-07-25T12:40:59.062Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-25T12:40:59.265Z] STEP: Starting serverStart.js
+[2025-07-25T12:40:59.270Z] 🚀 Server running on http://localhost:3001
+[2025-07-26T05:12:54.338Z] server.js booted
+[2025-07-26T05:12:54.347Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-26T05:12:54.569Z] STEP: Starting serverStart.js
+[2025-07-26T05:12:54.575Z] 🚀 Server running on http://localhost:3001
+[2025-07-26T05:50:56.607Z] server.js booted
+[2025-07-26T05:50:56.613Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-26T05:50:56.826Z] STEP: Starting serverStart.js
+[2025-07-26T05:50:56.831Z] 🚀 Server running on http://localhost:3001
+[2025-07-27T04:17:02.811Z] server.js booted
+[2025-07-27T04:17:02.817Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-27T04:17:03.071Z] STEP: Starting serverStart.js
+[2025-07-27T04:17:03.080Z] 🚀 Server running on http://localhost:3001
+[2025-07-27T04:33:53.058Z] server.js booted
+[2025-07-27T04:33:53.065Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-27T04:33:53.280Z] STEP: Starting serverStart.js
+[2025-07-27T04:33:53.286Z] 🚀 Server running on http://localhost:3001
+[2025-07-27T05:10:01.654Z] server.js booted
+[2025-07-27T05:10:01.657Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-27T05:10:01.803Z] STEP: Starting serverStart.js
+[2025-07-27T05:10:01.808Z] 🚀 Server running on http://localhost:3001
+[2025-07-27T05:25:05.981Z] server.js booted
+[2025-07-27T05:25:05.985Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-27T05:25:06.151Z] STEP: Starting serverStart.js
+[2025-07-27T05:25:06.155Z] 🚀 Server running on http://localhost:3001
+[2025-07-27T10:49:36.220Z] server.js booted
+[2025-07-27T10:49:36.226Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-27T10:49:36.535Z] STEP: Starting serverStart.js
+[2025-07-27T10:49:36.542Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T05:20:33.496Z] server.js booted
+[2025-07-28T05:20:33.502Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T05:20:33.728Z] STEP: Starting serverStart.js
+[2025-07-28T05:20:33.732Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T05:38:50.451Z] server.js booted
+[2025-07-28T05:38:50.456Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T05:38:50.592Z] STEP: Starting serverStart.js
+[2025-07-28T05:38:50.597Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T05:43:38.705Z] server.js booted
+[2025-07-28T05:43:38.708Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T05:43:38.924Z] STEP: Starting serverStart.js
+[2025-07-28T05:43:38.927Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T05:58:19.486Z] server.js booted
+[2025-07-28T05:58:19.489Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T05:58:19.640Z] STEP: Starting serverStart.js
+[2025-07-28T05:58:19.643Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T06:03:33.896Z] server.js booted
+[2025-07-28T06:03:33.915Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T06:03:34.119Z] STEP: Starting serverStart.js
+[2025-07-28T06:03:34.123Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T06:07:21.293Z] server.js booted
+[2025-07-28T06:07:21.297Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T06:07:21.431Z] STEP: Starting serverStart.js
+[2025-07-28T06:07:21.434Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T06:09:53.075Z] server.js booted
+[2025-07-28T06:09:53.079Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T06:09:53.249Z] STEP: Starting serverStart.js
+[2025-07-28T06:09:53.254Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T06:44:30.872Z] server.js booted
+[2025-07-28T06:44:30.877Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T06:44:31.128Z] STEP: Starting serverStart.js
+[2025-07-28T06:44:31.134Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T06:46:01.031Z] server.js booted
+[2025-07-28T06:46:01.038Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T06:46:01.265Z] STEP: Starting serverStart.js
+[2025-07-28T06:46:01.271Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T06:59:07.629Z] server.js booted
+[2025-07-28T06:59:07.637Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T06:59:07.845Z] STEP: Starting serverStart.js
+[2025-07-28T06:59:07.850Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T07:00:14.821Z] server.js booted
+[2025-07-28T07:00:14.826Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T07:00:15.031Z] STEP: Starting serverStart.js
+[2025-07-28T07:00:15.036Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T07:08:33.286Z] server.js booted
+[2025-07-28T07:08:33.291Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T07:08:33.507Z] STEP: Starting serverStart.js
+[2025-07-28T07:08:33.512Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T09:30:48.324Z] server.js booted
+[2025-07-28T09:30:48.329Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T09:30:48.494Z] STEP: Starting serverStart.js
+[2025-07-28T09:30:48.498Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T10:06:09.628Z] server.js booted
+[2025-07-28T10:06:09.633Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T10:06:09.890Z] STEP: Starting serverStart.js
+[2025-07-28T10:06:09.895Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T10:17:56.814Z] server.js booted
+[2025-07-28T10:17:56.820Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T10:17:57.064Z] STEP: Starting serverStart.js
+[2025-07-28T10:17:57.069Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T10:36:59.135Z] server.js booted
+[2025-07-28T10:36:59.140Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T10:36:59.406Z] STEP: Starting serverStart.js
+[2025-07-28T10:36:59.412Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T10:37:58.960Z] server.js booted
+[2025-07-28T10:37:58.966Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T10:37:59.197Z] STEP: Starting serverStart.js
+[2025-07-28T10:37:59.203Z] 🚀 Server running on http://localhost:3001
+[2025-07-28T10:43:11.788Z] ❌ Sync route failed: Error: SQLITE_BUSY: database is locked
+[2025-07-28T10:47:04.114Z] server.js booted
+[2025-07-28T10:47:04.120Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-28T10:47:04.347Z] STEP: Starting serverStart.js
+[2025-07-28T10:47:04.352Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T04:16:49.412Z] server.js booted
+[2025-07-29T04:16:49.419Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T04:16:49.768Z] STEP: Starting serverStart.js
+[2025-07-29T04:16:49.773Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T04:22:33.263Z] server.js booted
+[2025-07-29T04:22:33.268Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T04:22:33.476Z] STEP: Starting serverStart.js
+[2025-07-29T04:22:33.483Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T04:31:31.001Z] server.js booted
+[2025-07-29T04:31:31.008Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T04:31:31.212Z] STEP: Starting serverStart.js
+[2025-07-29T04:31:31.217Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T04:38:05.917Z] server.js booted
+[2025-07-29T04:38:05.923Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T04:38:06.138Z] STEP: Starting serverStart.js
+[2025-07-29T04:38:06.144Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T05:58:13.030Z] server.js booted
+[2025-07-29T05:58:13.039Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T05:58:13.348Z] STEP: Starting serverStart.js
+[2025-07-29T05:58:13.353Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T06:11:13.697Z] server.js booted
+[2025-07-29T06:11:13.702Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T06:11:13.913Z] STEP: Starting serverStart.js
+[2025-07-29T06:11:13.920Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T06:11:44.600Z] server.js booted
+[2025-07-29T06:11:44.606Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T06:11:44.845Z] STEP: Starting serverStart.js
+[2025-07-29T06:11:44.850Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T06:17:25.701Z] server.js booted
+[2025-07-29T06:17:25.707Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T06:17:25.955Z] STEP: Starting serverStart.js
+[2025-07-29T06:17:25.961Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T12:11:52.522Z] server.js booted
+[2025-07-29T12:11:52.525Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T12:11:52.673Z] STEP: Starting serverStart.js
+[2025-07-29T12:11:52.677Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T12:24:46.871Z] server.js booted
+[2025-07-29T12:24:46.878Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T12:24:47.084Z] STEP: Starting serverStart.js
+[2025-07-29T12:24:47.089Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T12:26:53.426Z] server.js booted
+[2025-07-29T12:26:53.432Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T12:26:53.637Z] STEP: Starting serverStart.js
+[2025-07-29T12:26:53.642Z] 🚀 Server running on http://localhost:3001
+[2025-07-29T12:43:57.145Z] server.js booted
+[2025-07-29T12:43:57.151Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-29T12:43:57.404Z] STEP: Starting serverStart.js
+[2025-07-29T12:43:57.411Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T03:51:13.252Z] server.js booted
+[2025-07-30T03:51:13.257Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T03:51:13.473Z] STEP: Starting serverStart.js
+[2025-07-30T03:51:13.478Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T04:04:56.348Z] server.js booted
+[2025-07-30T04:04:56.352Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T04:04:56.497Z] STEP: Starting serverStart.js
+[2025-07-30T04:04:56.500Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T04:21:15.539Z] server.js booted
+[2025-07-30T04:21:15.543Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T04:21:15.687Z] STEP: Starting serverStart.js
+[2025-07-30T04:21:15.692Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T04:42:38.097Z] server.js booted
+[2025-07-30T04:42:38.104Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T04:42:38.369Z] STEP: Starting serverStart.js
+[2025-07-30T04:42:38.376Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T04:43:09.995Z] server.js booted
+[2025-07-30T04:43:10.001Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T04:43:10.206Z] STEP: Starting serverStart.js
+[2025-07-30T04:43:10.211Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T05:05:21.443Z] server.js booted
+[2025-07-30T05:05:21.448Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T05:05:21.682Z] STEP: Starting serverStart.js
+[2025-07-30T05:05:21.687Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T05:09:00.176Z] server.js booted
+[2025-07-30T05:09:00.181Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T05:09:00.398Z] STEP: Starting serverStart.js
+[2025-07-30T05:09:00.404Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T05:24:19.586Z] server.js booted
+[2025-07-30T05:24:19.591Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T05:24:19.816Z] STEP: Starting serverStart.js
+[2025-07-30T05:24:19.822Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T06:34:44.310Z] server.js booted
+[2025-07-30T06:34:44.313Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T06:34:44.480Z] STEP: Starting serverStart.js
+[2025-07-30T06:34:44.484Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T06:36:33.493Z] server.js booted
+[2025-07-30T06:36:33.497Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T06:36:33.633Z] STEP: Starting serverStart.js
+[2025-07-30T06:36:33.636Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T06:38:29.453Z] server.js booted
+[2025-07-30T06:38:29.463Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T06:38:29.626Z] STEP: Starting serverStart.js
+[2025-07-30T06:38:29.630Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T06:39:29.889Z] server.js booted
+[2025-07-30T06:39:29.893Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T06:39:30.049Z] STEP: Starting serverStart.js
+[2025-07-30T06:39:30.053Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T06:50:50.157Z] server.js booted
+[2025-07-30T06:50:50.162Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T06:50:50.344Z] STEP: Starting serverStart.js
+[2025-07-30T06:50:50.347Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T07:06:06.487Z] server.js booted
+[2025-07-30T07:06:06.492Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T07:06:06.741Z] STEP: Starting serverStart.js
+[2025-07-30T07:06:06.746Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T07:07:20.439Z] server.js booted
+[2025-07-30T07:07:20.444Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T07:07:20.653Z] STEP: Starting serverStart.js
+[2025-07-30T07:07:20.658Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T07:11:50.953Z] server.js booted
+[2025-07-30T07:11:50.959Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T07:11:51.165Z] STEP: Starting serverStart.js
+[2025-07-30T07:11:51.171Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T07:13:46.475Z] server.js booted
+[2025-07-30T07:13:46.482Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T07:13:46.729Z] STEP: Starting serverStart.js
+[2025-07-30T07:13:46.734Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T07:45:46.920Z] server.js booted
+[2025-07-30T07:45:46.927Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T07:45:47.177Z] STEP: Starting serverStart.js
+[2025-07-30T07:45:47.182Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T07:46:15.602Z] server.js booted
+[2025-07-30T07:46:15.608Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T07:46:15.811Z] STEP: Starting serverStart.js
+[2025-07-30T07:46:15.817Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T07:46:33.583Z] server.js booted
+[2025-07-30T07:46:33.588Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T07:46:33.811Z] STEP: Starting serverStart.js
+[2025-07-30T07:46:33.816Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T09:44:33.975Z] server.js booted
+[2025-07-30T09:44:33.981Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T09:44:34.207Z] STEP: Starting serverStart.js
+[2025-07-30T09:44:34.216Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T10:17:18.183Z] server.js booted
+[2025-07-30T10:17:18.191Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T10:17:18.413Z] STEP: Starting serverStart.js
+[2025-07-30T10:17:18.418Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T10:28:09.568Z] server.js booted
+[2025-07-30T10:28:09.573Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T10:28:09.780Z] STEP: Starting serverStart.js
+[2025-07-30T10:28:09.785Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T10:58:52.895Z] server.js booted
+[2025-07-30T10:58:52.901Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T10:58:53.201Z] STEP: Starting serverStart.js
+[2025-07-30T10:58:53.207Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T11:00:08.913Z] server.js booted
+[2025-07-30T11:00:08.919Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:00:09.138Z] STEP: Starting serverStart.js
+[2025-07-30T11:00:09.144Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T11:01:22.764Z] server.js booted
+[2025-07-30T11:01:22.770Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:01:22.976Z] STEP: Starting serverStart.js
+[2025-07-30T11:01:22.982Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T11:01:33.382Z] server.js booted
+[2025-07-30T11:01:33.386Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:01:33.584Z] STEP: Starting serverStart.js
+[2025-07-30T11:01:33.589Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T11:02:27.940Z] server.js booted
+[2025-07-30T11:02:27.945Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:02:28.182Z] STEP: Starting serverStart.js
+[2025-07-30T11:02:28.187Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T11:04:04.357Z] server.js booted
+[2025-07-30T11:04:04.363Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:04:04.576Z] STEP: Starting serverStart.js
+[2025-07-30T11:04:04.583Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T11:18:01.187Z] server.js booted
+[2025-07-30T11:18:01.191Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:18:01.328Z] Error loading serverStart: C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js:428
+const db = require('./db');
+      ^
+
+SyntaxError: Identifier 'db' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js:10:24)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+[2025-07-30T11:19:39.034Z] server.js booted
+[2025-07-30T11:19:39.040Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:19:39.187Z] Error loading serverStart: C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js:428
+const db = require('./db');
+      ^
+
+SyntaxError: Identifier 'db' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js:10:24)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+[2025-07-30T11:21:01.452Z] server.js booted
+[2025-07-30T11:21:01.456Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:21:01.586Z] STEP: Starting serverStart.js
+[2025-07-30T11:21:01.589Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T11:35:45.780Z] server.js booted
+[2025-07-30T11:35:45.785Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:35:46.011Z] STEP: Starting serverStart.js
+[2025-07-30T11:35:46.016Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T11:42:34.724Z] server.js booted
+[2025-07-30T11:42:34.731Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T11:42:34.938Z] STEP: Starting serverStart.js
+[2025-07-30T11:42:34.943Z] 🚀 Server running on http://localhost:3001
+[2025-07-30T12:47:32.034Z] server.js booted
+[2025-07-30T12:47:32.037Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-30T12:47:32.185Z] STEP: Starting serverStart.js
+[2025-07-30T12:47:32.189Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T04:33:10.441Z] server.js booted
+[2025-07-31T04:33:10.449Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T04:33:10.733Z] STEP: Starting serverStart.js
+[2025-07-31T04:33:10.738Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T04:39:44.836Z] server.js booted
+[2025-07-31T04:39:44.841Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T04:39:45.071Z] STEP: Starting serverStart.js
+[2025-07-31T04:39:45.083Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T04:45:41.336Z] server.js booted
+[2025-07-31T04:45:41.341Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T04:45:41.604Z] STEP: Starting serverStart.js
+[2025-07-31T04:45:41.609Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T04:46:26.964Z] server.js booted
+[2025-07-31T04:46:26.969Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T04:46:27.199Z] STEP: Starting serverStart.js
+[2025-07-31T04:46:27.204Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T04:52:01.292Z] server.js booted
+[2025-07-31T04:52:01.297Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T04:52:01.694Z] STEP: Starting serverStart.js
+[2025-07-31T04:52:01.699Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T04:57:28.407Z] server.js booted
+[2025-07-31T04:57:28.412Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T04:57:28.621Z] STEP: Starting serverStart.js
+[2025-07-31T04:57:28.627Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T05:08:30.063Z] server.js booted
+[2025-07-31T05:08:30.069Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T05:08:30.279Z] STEP: Starting serverStart.js
+[2025-07-31T05:08:30.285Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T05:22:06.062Z] server.js booted
+[2025-07-31T05:22:06.067Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T05:22:06.272Z] STEP: Starting serverStart.js
+[2025-07-31T05:22:06.278Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T05:26:06.776Z] server.js booted
+[2025-07-31T05:26:06.782Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T05:26:06.983Z] STEP: Starting serverStart.js
+[2025-07-31T05:26:06.988Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T05:29:38.916Z] server.js booted
+[2025-07-31T05:29:38.920Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T05:29:39.124Z] STEP: Starting serverStart.js
+[2025-07-31T05:29:39.129Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T05:36:20.087Z] server.js booted
+[2025-07-31T05:36:20.095Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T05:36:20.407Z] STEP: Starting serverStart.js
+[2025-07-31T05:36:20.412Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T05:36:58.557Z] server.js booted
+[2025-07-31T05:36:58.562Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T05:36:58.798Z] STEP: Starting serverStart.js
+[2025-07-31T05:36:58.806Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T06:37:55.743Z] server.js booted
+[2025-07-31T06:37:55.749Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T06:37:56.006Z] STEP: Starting serverStart.js
+[2025-07-31T06:37:56.011Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T06:53:49.167Z] server.js booted
+[2025-07-31T06:53:49.172Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T06:53:49.410Z] STEP: Starting serverStart.js
+[2025-07-31T06:53:49.417Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T07:06:03.352Z] server.js booted
+[2025-07-31T07:06:03.358Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T07:06:03.597Z] STEP: Starting serverStart.js
+[2025-07-31T07:06:03.603Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T07:18:18.985Z] server.js booted
+[2025-07-31T07:18:18.991Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T07:18:19.205Z] STEP: Starting serverStart.js
+[2025-07-31T07:18:19.212Z] 🚀 Server running on http://localhost:3001
+[2025-07-31T07:37:15.058Z] server.js booted
+[2025-07-31T07:37:15.061Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-07-31T07:37:15.195Z] STEP: Starting serverStart.js
+[2025-07-31T07:37:15.198Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T05:43:20.631Z] server.js booted
+[2025-08-01T05:43:20.637Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T05:43:20.858Z] STEP: Starting serverStart.js
+[2025-08-01T05:43:20.863Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T06:05:14.845Z] server.js booted
+[2025-08-01T06:05:14.849Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T06:05:14.984Z] STEP: Starting serverStart.js
+[2025-08-01T06:05:14.988Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T06:06:02.513Z] server.js booted
+[2025-08-01T06:06:02.517Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T06:06:02.649Z] STEP: Starting serverStart.js
+[2025-08-01T06:06:02.654Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T06:41:35.510Z] server.js booted
+[2025-08-01T06:41:35.517Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T06:41:35.758Z] STEP: Starting serverStart.js
+[2025-08-01T06:41:35.763Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T06:46:24.287Z] server.js booted
+[2025-08-01T06:46:24.292Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T06:46:24.541Z] STEP: Starting serverStart.js
+[2025-08-01T06:46:24.546Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T06:48:27.154Z] server.js booted
+[2025-08-01T06:48:27.159Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T06:48:27.394Z] STEP: Starting serverStart.js
+[2025-08-01T06:48:27.402Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T07:33:52.181Z] server.js booted
+[2025-08-01T07:33:52.186Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T07:33:52.411Z] STEP: Starting serverStart.js
+[2025-08-01T07:33:52.420Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T07:37:47.221Z] server.js booted
+[2025-08-01T07:37:47.227Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T07:37:47.431Z] STEP: Starting serverStart.js
+[2025-08-01T07:37:47.437Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T07:54:07.677Z] server.js booted
+[2025-08-01T07:54:07.683Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T07:54:07.959Z] Error loading serverStart: Error: Cannot find module 'node-fetch'
+Require stack:
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js:228:15)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-08-01T07:55:10.508Z] server.js booted
+[2025-08-01T07:55:10.513Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T07:55:10.743Z] STEP: Starting serverStart.js
+[2025-08-01T07:55:10.750Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T07:56:10.145Z] server.js booted
+[2025-08-01T07:56:10.150Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T07:56:10.415Z] Error loading serverStart: Error: Cannot find module 'node-fetch'
+Require stack:
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+- C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\syncGroups.js:228:15)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-08-01T07:56:21.139Z] server.js booted
+[2025-08-01T07:56:21.143Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T07:56:21.354Z] STEP: Starting serverStart.js
+[2025-08-01T07:56:21.361Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T09:21:19.465Z] server.js booted
+[2025-08-01T09:21:19.472Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T09:21:19.741Z] STEP: Starting serverStart.js
+[2025-08-01T09:21:19.747Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T09:24:07.512Z] server.js booted
+[2025-08-01T09:24:07.517Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T09:24:07.724Z] STEP: Starting serverStart.js
+[2025-08-01T09:24:07.730Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T09:31:59.793Z] server.js booted
+[2025-08-01T09:31:59.799Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T09:32:00.054Z] STEP: Starting serverStart.js
+[2025-08-01T09:32:00.059Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T09:34:31.732Z] server.js booted
+[2025-08-01T09:34:31.737Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T09:34:31.946Z] STEP: Starting serverStart.js
+[2025-08-01T09:34:31.952Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T09:40:21.476Z] server.js booted
+[2025-08-01T09:40:21.483Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T09:40:21.692Z] STEP: Starting serverStart.js
+[2025-08-01T09:40:21.698Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T09:40:41.579Z] server.js booted
+[2025-08-01T09:40:41.585Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T09:40:41.786Z] STEP: Starting serverStart.js
+[2025-08-01T09:40:41.792Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T10:12:29.033Z] server.js booted
+[2025-08-01T10:12:29.038Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T10:12:29.175Z] STEP: Starting serverStart.js
+[2025-08-01T10:12:29.178Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T10:15:16.229Z] server.js booted
+[2025-08-01T10:15:16.233Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T10:15:16.369Z] STEP: Starting serverStart.js
+[2025-08-01T10:15:16.372Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T10:17:31.703Z] server.js booted
+[2025-08-01T10:17:31.708Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T10:17:31.840Z] STEP: Starting serverStart.js
+[2025-08-01T10:17:31.843Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T10:19:26.639Z] server.js booted
+[2025-08-01T10:19:26.643Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T10:19:26.775Z] STEP: Starting serverStart.js
+[2025-08-01T10:19:26.778Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T11:07:17.624Z] server.js booted
+[2025-08-01T11:07:17.629Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T11:07:17.922Z] STEP: Starting serverStart.js
+[2025-08-01T11:07:17.928Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T11:09:06.399Z] server.js booted
+[2025-08-01T11:09:06.406Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T11:09:06.610Z] STEP: Starting serverStart.js
+[2025-08-01T11:09:06.616Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T12:12:48.329Z] server.js booted
+[2025-08-01T12:12:48.336Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T12:12:48.600Z] STEP: Starting serverStart.js
+[2025-08-01T12:12:48.605Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T12:16:25.139Z] server.js booted
+[2025-08-01T12:16:25.145Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T12:16:25.348Z] STEP: Starting serverStart.js
+[2025-08-01T12:16:25.353Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T12:17:47.530Z] server.js booted
+[2025-08-01T12:17:47.536Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T12:17:47.763Z] STEP: Starting serverStart.js
+[2025-08-01T12:17:47.768Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T12:21:18.123Z] server.js booted
+[2025-08-01T12:21:18.128Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T12:21:18.337Z] STEP: Starting serverStart.js
+[2025-08-01T12:21:18.342Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T12:27:07.052Z] server.js booted
+[2025-08-01T12:27:07.057Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T12:27:07.266Z] STEP: Starting serverStart.js
+[2025-08-01T12:27:07.273Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T12:40:36.946Z] server.js booted
+[2025-08-01T12:40:36.950Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T12:40:37.162Z] STEP: Starting serverStart.js
+[2025-08-01T12:40:37.168Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T12:42:50.403Z] server.js booted
+[2025-08-01T12:42:50.408Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T12:42:50.617Z] STEP: Starting serverStart.js
+[2025-08-01T12:42:50.624Z] 🚀 Server running on http://localhost:3001
+[2025-08-01T12:46:44.603Z] server.js booted
+[2025-08-01T12:46:44.608Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-01T12:46:44.824Z] STEP: Starting serverStart.js
+[2025-08-01T12:46:44.829Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T03:21:13.908Z] server.js booted
+[2025-08-04T03:21:13.912Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T03:21:14.091Z] STEP: Starting serverStart.js
+[2025-08-04T03:21:14.096Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T04:59:43.408Z] server.js booted
+[2025-08-04T04:59:43.415Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T04:59:43.647Z] STEP: Starting serverStart.js
+[2025-08-04T04:59:43.653Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T07:18:20.635Z] server.js booted
+[2025-08-04T07:18:20.642Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T07:18:20.930Z] STEP: Starting serverStart.js
+[2025-08-04T07:18:20.937Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T07:24:11.448Z] server.js booted
+[2025-08-04T07:24:11.453Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T07:24:11.676Z] STEP: Starting serverStart.js
+[2025-08-04T07:24:11.682Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T09:25:39.064Z] server.js booted
+[2025-08-04T09:25:39.072Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T09:25:39.290Z] STEP: Starting serverStart.js
+[2025-08-04T09:25:39.331Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T09:46:55.985Z] server.js booted
+[2025-08-04T09:46:55.990Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T09:46:56.221Z] STEP: Starting serverStart.js
+[2025-08-04T09:46:56.226Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T09:57:57.622Z] server.js booted
+[2025-08-04T09:57:57.627Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T09:57:57.847Z] STEP: Starting serverStart.js
+[2025-08-04T09:57:57.852Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T10:29:29.662Z] server.js booted
+[2025-08-04T10:29:29.667Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T10:29:30.020Z] STEP: Starting serverStart.js
+[2025-08-04T10:29:30.026Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T10:46:00.506Z] server.js booted
+[2025-08-04T10:46:00.511Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T10:46:00.771Z] STEP: Starting serverStart.js
+[2025-08-04T10:46:00.777Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T10:46:31.574Z] server.js booted
+[2025-08-04T10:46:31.579Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T10:46:31.790Z] STEP: Starting serverStart.js
+[2025-08-04T10:46:31.796Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T10:46:44.421Z] server.js booted
+[2025-08-04T10:46:44.426Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T10:46:44.669Z] STEP: Starting serverStart.js
+[2025-08-04T10:46:44.674Z] 🚀 Server running on http://localhost:3001
+[2025-08-04T10:47:05.900Z] server.js booted
+[2025-08-04T10:47:05.905Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-04T10:47:06.112Z] STEP: Starting serverStart.js
+[2025-08-04T10:47:06.116Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T02:31:15.301Z] server.js booted
+[2025-08-05T02:31:15.307Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T02:31:15.515Z] STEP: Starting serverStart.js
+[2025-08-05T02:31:15.519Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T03:03:51.659Z] server.js booted
+[2025-08-05T03:03:51.668Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T03:03:51.883Z] STEP: Starting serverStart.js
+[2025-08-05T03:03:51.888Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T03:41:03.442Z] server.js booted
+[2025-08-05T03:41:03.448Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T03:41:03.696Z] STEP: Starting serverStart.js
+[2025-08-05T03:41:03.701Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T03:43:29.533Z] server.js booted
+[2025-08-05T03:43:29.538Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T03:43:29.764Z] STEP: Starting serverStart.js
+[2025-08-05T03:43:29.769Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T03:45:51.019Z] server.js booted
+[2025-08-05T03:45:51.024Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T03:45:51.238Z] STEP: Starting serverStart.js
+[2025-08-05T03:45:51.244Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T03:46:29.757Z] server.js booted
+[2025-08-05T03:46:29.762Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T03:46:29.979Z] STEP: Starting serverStart.js
+[2025-08-05T03:46:29.984Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T03:47:16.678Z] server.js booted
+[2025-08-05T03:47:16.683Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T03:47:16.955Z] STEP: Starting serverStart.js
+[2025-08-05T03:47:16.961Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T03:47:42.652Z] server.js booted
+[2025-08-05T03:47:42.656Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T03:47:42.861Z] STEP: Starting serverStart.js
+[2025-08-05T03:47:42.866Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T04:01:27.011Z] server.js booted
+[2025-08-05T04:01:27.016Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T04:01:27.227Z] STEP: Starting serverStart.js
+[2025-08-05T04:01:27.232Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T04:06:53.778Z] server.js booted
+[2025-08-05T04:06:53.783Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T04:06:54.034Z] STEP: Starting serverStart.js
+[2025-08-05T04:06:54.039Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T04:38:09.848Z] server.js booted
+[2025-08-05T04:38:09.853Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T04:38:10.065Z] STEP: Starting serverStart.js
+[2025-08-05T04:38:10.070Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T04:53:51.867Z] server.js booted
+[2025-08-05T04:53:51.872Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T04:53:52.028Z] STEP: Starting serverStart.js
+[2025-08-05T04:53:52.032Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T05:12:03.984Z] server.js booted
+[2025-08-05T05:12:03.988Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T05:12:04.121Z] STEP: Starting serverStart.js
+[2025-08-05T05:12:04.125Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T05:12:34.864Z] server.js booted
+[2025-08-05T05:12:34.868Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T05:12:35.018Z] STEP: Starting serverStart.js
+[2025-08-05T05:12:35.021Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T05:14:36.565Z] server.js booted
+[2025-08-05T05:14:36.568Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T05:14:36.705Z] STEP: Starting serverStart.js
+[2025-08-05T05:14:36.708Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T05:15:52.142Z] server.js booted
+[2025-08-05T05:15:52.146Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T05:15:52.337Z] STEP: Starting serverStart.js
+[2025-08-05T05:15:52.341Z] 🚀 Server running on http://localhost:3001
+[2025-08-05T05:17:25.748Z] server.js booted
+[2025-08-05T05:17:25.751Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-05T05:17:25.962Z] STEP: Starting serverStart.js
+[2025-08-05T05:17:25.968Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T04:13:35.716Z] server.js booted
+[2025-08-06T04:13:35.724Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-06T04:13:36.005Z] STEP: Starting serverStart.js
+[2025-08-06T04:13:36.010Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T04:18:57.295Z] server.js booted
+[2025-08-06T04:18:57.302Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-06T04:18:57.532Z] STEP: Starting serverStart.js
+[2025-08-06T04:18:57.536Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T05:13:40.082Z] server.js booted
+[2025-08-06T05:13:40.088Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-06T05:13:40.428Z] STEP: Starting serverStart.js
+[2025-08-06T05:13:40.433Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T05:23:34.511Z] server.js booted
+[2025-08-06T05:23:34.517Z] Requiring serverStart from C:\Users\Thilak\Desktop\DELTA_3_Packaged_Copy\serverStart.js
+[2025-08-06T05:23:34.828Z] STEP: Starting serverStart.js
+[2025-08-06T05:23:34.833Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T07:21:06.646Z] server.js booted
+[2025-08-06T07:21:07.048Z] STEP: Starting serverStart.js
+[2025-08-06T07:21:07.052Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T09:42:20.387Z] server.js booted
+[2025-08-06T09:42:20.650Z] STEP: Starting serverStart.js
+[2025-08-06T09:42:20.654Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T09:46:50.208Z] server.js booted
+[2025-08-06T09:46:50.356Z] STEP: Starting serverStart.js
+[2025-08-06T09:46:50.361Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T09:51:56.239Z] server.js booted
+[2025-08-06T09:51:56.381Z] STEP: Starting serverStart.js
+[2025-08-06T09:51:56.386Z] 🚀 Server running on http://localhost:3001
+[2025-08-06T11:00:28.946Z] server.js booted
+[2025-08-06T11:00:29.239Z] STEP: Starting serverStart.js
+[2025-08-06T11:00:29.244Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T03:10:43.161Z] server.js booted
+[2025-08-07T03:10:43.369Z] STEP: Starting serverStart.js
+[2025-08-07T03:10:43.372Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T03:31:32.520Z] server.js booted
+[2025-08-07T03:31:32.685Z] STEP: Starting serverStart.js
+[2025-08-07T03:31:32.689Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T03:34:02.086Z] server.js booted
+[2025-08-07T03:34:02.212Z] STEP: Starting serverStart.js
+[2025-08-07T03:34:02.216Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T03:37:59.705Z] server.js booted
+[2025-08-07T03:37:59.855Z] STEP: Starting serverStart.js
+[2025-08-07T03:37:59.862Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T03:42:46.803Z] server.js booted
+[2025-08-07T03:42:46.942Z] STEP: Starting serverStart.js
+[2025-08-07T03:42:46.947Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T03:45:45.816Z] server.js booted
+[2025-08-07T03:45:45.944Z] STEP: Starting serverStart.js
+[2025-08-07T03:45:45.948Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T03:48:01.471Z] server.js booted
+[2025-08-07T03:48:01.680Z] STEP: Starting serverStart.js
+[2025-08-07T03:48:01.687Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T04:17:05.998Z] server.js booted
+[2025-08-07T04:17:06.212Z] STEP: Starting serverStart.js
+[2025-08-07T04:17:06.217Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T04:31:40.589Z] server.js booted
+[2025-08-07T04:31:40.790Z] STEP: Starting serverStart.js
+[2025-08-07T04:31:40.796Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T04:32:07.703Z] server.js booted
+[2025-08-07T04:32:07.913Z] STEP: Starting serverStart.js
+[2025-08-07T04:32:07.918Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T05:36:36.734Z] server.js booted
+[2025-08-07T05:36:36.995Z] STEP: Starting serverStart.js
+[2025-08-07T05:36:37.001Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T05:47:59.337Z] server.js booted
+[2025-08-07T05:47:59.549Z] STEP: Starting serverStart.js
+[2025-08-07T05:47:59.554Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T05:59:25.965Z] server.js booted
+[2025-08-07T05:59:26.174Z] STEP: Starting serverStart.js
+[2025-08-07T05:59:26.179Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T06:14:37.743Z] server.js booted
+[2025-08-07T06:14:37.938Z] STEP: Starting serverStart.js
+[2025-08-07T06:14:37.944Z] 🚀 Server running on http://localhost:3001
+[2025-08-07T07:02:04.958Z] server.js booted
+[2025-08-07T07:02:05.269Z] STEP: Starting serverStart.js
+[2025-08-07T07:02:05.275Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T05:24:41.683Z] server.js booted
+[2025-08-08T05:24:41.982Z] STEP: Starting serverStart.js
+[2025-08-08T05:24:41.987Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T07:28:32.899Z] server.js booted
+[2025-08-08T07:28:33.183Z] STEP: Starting serverStart.js
+[2025-08-08T07:28:33.188Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:08:02.887Z] server.js booted
+[2025-08-08T09:08:03.087Z] STEP: Starting serverStart.js
+[2025-08-08T09:08:03.091Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:15:09.742Z] server.js booted
+[2025-08-08T09:15:09.872Z] STEP: Starting serverStart.js
+[2025-08-08T09:15:09.876Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:15:41.067Z] server.js booted
+[2025-08-08T09:15:41.186Z] STEP: Starting serverStart.js
+[2025-08-08T09:15:41.190Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:16:21.066Z] server.js booted
+[2025-08-08T09:16:21.192Z] STEP: Starting serverStart.js
+[2025-08-08T09:16:21.195Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:17:14.205Z] server.js booted
+[2025-08-08T09:17:14.333Z] STEP: Starting serverStart.js
+[2025-08-08T09:17:14.336Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:21:13.209Z] server.js booted
+[2025-08-08T09:21:13.357Z] STEP: Starting serverStart.js
+[2025-08-08T09:21:13.360Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:29:55.170Z] server.js booted
+[2025-08-08T09:29:55.295Z] STEP: Starting serverStart.js
+[2025-08-08T09:29:55.298Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:35:19.013Z] server.js booted
+[2025-08-08T09:35:19.175Z] STEP: Starting serverStart.js
+[2025-08-08T09:35:19.180Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:42:01.849Z] server.js booted
+[2025-08-08T09:42:02.027Z] STEP: Starting serverStart.js
+[2025-08-08T09:42:02.031Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:42:48.829Z] server.js booted
+[2025-08-08T09:42:48.949Z] STEP: Starting serverStart.js
+[2025-08-08T09:42:48.953Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:44:29.206Z] server.js booted
+[2025-08-08T09:44:29.325Z] STEP: Starting serverStart.js
+[2025-08-08T09:44:29.331Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T09:59:16.400Z] server.js booted
+[2025-08-08T09:59:16.631Z] STEP: Starting serverStart.js
+[2025-08-08T09:59:16.637Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T11:04:52.223Z] server.js booted
+[2025-08-08T11:04:52.478Z] STEP: Starting serverStart.js
+[2025-08-08T11:04:52.483Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T11:05:03.794Z] server.js booted
+[2025-08-08T11:05:03.991Z] STEP: Starting serverStart.js
+[2025-08-08T11:05:03.997Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T11:08:54.663Z] server.js booted
+[2025-08-08T11:08:54.861Z] STEP: Starting serverStart.js
+[2025-08-08T11:08:54.866Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T11:11:54.350Z] server.js booted
+[2025-08-08T11:11:54.552Z] STEP: Starting serverStart.js
+[2025-08-08T11:11:54.557Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T11:15:05.199Z] server.js booted
+[2025-08-08T11:15:05.409Z] STEP: Starting serverStart.js
+[2025-08-08T11:15:05.415Z] 🚀 Server running on http://localhost:3001
+[2025-08-08T11:53:04.478Z] server.js booted
+[2025-08-08T11:53:04.673Z] STEP: Starting serverStart.js
+[2025-08-08T11:53:04.678Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T04:24:16.520Z] server.js booted
+[2025-08-09T04:24:16.874Z] STEP: Starting serverStart.js
+[2025-08-09T04:24:16.879Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T06:50:04.201Z] server.js booted
+[2025-08-09T06:50:04.504Z] STEP: Starting serverStart.js
+[2025-08-09T06:50:04.509Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T06:51:39.201Z] server.js booted
+[2025-08-09T06:51:39.424Z] STEP: Starting serverStart.js
+[2025-08-09T06:51:39.429Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T06:55:51.944Z] server.js booted
+[2025-08-09T06:55:52.153Z] STEP: Starting serverStart.js
+[2025-08-09T06:55:52.160Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T07:10:30.672Z] server.js booted
+[2025-08-09T07:10:30.805Z] STEP: Starting serverStart.js
+[2025-08-09T07:10:30.809Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T07:35:52.685Z] server.js booted
+[2025-08-09T07:35:52.853Z] STEP: Starting serverStart.js
+[2025-08-09T07:35:52.856Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T07:43:29.621Z] server.js booted
+[2025-08-09T07:43:29.749Z] STEP: Starting serverStart.js
+[2025-08-09T07:43:29.753Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T07:49:41.080Z] server.js booted
+[2025-08-09T07:49:41.226Z] STEP: Starting serverStart.js
+[2025-08-09T07:49:41.229Z] 🚀 Server running on http://localhost:3001
+[2025-08-09T08:58:13.475Z] server.js booted
+[2025-08-09T08:58:13.814Z] STEP: Starting serverStart.js
+[2025-08-09T08:58:13.819Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T04:25:32.089Z] server.js booted
+[2025-08-10T04:25:32.292Z] STEP: Starting serverStart.js
+[2025-08-10T04:25:32.297Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T05:00:22.810Z] server.js booted
+[2025-08-10T05:00:22.974Z] STEP: Starting serverStart.js
+[2025-08-10T05:00:22.983Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T05:05:04.539Z] server.js booted
+[2025-08-10T05:05:04.664Z] STEP: Starting serverStart.js
+[2025-08-10T05:05:04.667Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T05:12:42.616Z] server.js booted
+[2025-08-10T05:12:42.774Z] STEP: Starting serverStart.js
+[2025-08-10T05:12:42.778Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T05:29:02.880Z] server.js booted
+[2025-08-10T05:29:03.088Z] STEP: Starting serverStart.js
+[2025-08-10T05:29:03.095Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T06:21:50.510Z] server.js booted
+[2025-08-10T06:21:50.783Z] STEP: Starting serverStart.js
+[2025-08-10T06:21:50.789Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T06:22:01.948Z] server.js booted
+[2025-08-10T06:22:02.167Z] STEP: Starting serverStart.js
+[2025-08-10T06:22:02.174Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T07:08:53.927Z] server.js booted
+[2025-08-10T07:08:54.173Z] STEP: Starting serverStart.js
+[2025-08-10T07:08:54.178Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T08:52:32.813Z] server.js booted
+[2025-08-10T08:52:33.017Z] STEP: Starting serverStart.js
+[2025-08-10T08:52:33.024Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T09:33:44.537Z] server.js booted
+[2025-08-10T09:33:44.731Z] STEP: Starting serverStart.js
+[2025-08-10T09:33:44.736Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T09:35:54.787Z] server.js booted
+[2025-08-10T09:35:54.979Z] STEP: Starting serverStart.js
+[2025-08-10T09:35:54.984Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T11:45:43.264Z] server.js booted
+[2025-08-10T11:45:43.489Z] STEP: Starting serverStart.js
+[2025-08-10T11:45:43.494Z] 🚀 Server running on http://localhost:3001
+[2025-08-10T12:31:18.785Z] server.js booted
+[2025-08-10T12:31:19.032Z] STEP: Starting serverStart.js
+[2025-08-10T12:31:19.035Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T04:46:07.798Z] server.js booted
+[2025-08-11T04:46:08.148Z] STEP: Starting serverStart.js
+[2025-08-11T04:46:08.153Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T04:50:02.784Z] server.js booted
+[2025-08-11T04:50:02.984Z] STEP: Starting serverStart.js
+[2025-08-11T04:50:02.989Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T04:55:36.981Z] server.js booted
+[2025-08-11T04:55:37.268Z] STEP: Starting serverStart.js
+[2025-08-11T04:55:37.274Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T10:23:10.651Z] server.js booted
+[2025-08-11T10:23:10.855Z] STEP: Starting serverStart.js
+[2025-08-11T10:23:10.858Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T11:11:30.014Z] server.js booted
+[2025-08-11T11:11:30.295Z] STEP: Starting serverStart.js
+[2025-08-11T11:11:30.301Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T11:54:02.211Z] server.js booted
+[2025-08-11T11:54:02.495Z] STEP: Starting serverStart.js
+[2025-08-11T11:54:02.501Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T11:55:42.824Z] server.js booted
+[2025-08-11T11:55:43.016Z] STEP: Starting serverStart.js
+[2025-08-11T11:55:43.022Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T12:09:51.598Z] server.js booted
+[2025-08-11T12:09:51.798Z] STEP: Starting serverStart.js
+[2025-08-11T12:09:51.804Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T12:31:30.711Z] server.js booted
+[2025-08-11T12:31:30.905Z] STEP: Starting serverStart.js
+[2025-08-11T12:31:30.909Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T12:31:50.518Z] server.js booted
+[2025-08-11T12:31:50.712Z] STEP: Starting serverStart.js
+[2025-08-11T12:31:50.719Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T12:43:24.821Z] server.js booted
+[2025-08-11T12:43:24.949Z] STEP: Starting serverStart.js
+[2025-08-11T12:43:24.952Z] 🚀 Server running on http://localhost:3001
+[2025-08-11T12:47:17.957Z] server.js booted
+[2025-08-11T12:47:18.098Z] STEP: Starting serverStart.js
+[2025-08-11T12:47:18.102Z] 🚀 Server running on http://localhost:3001
+[2025-08-12T05:32:26.976Z] server.js booted
+[2025-08-12T05:32:27.187Z] STEP: Starting serverStart.js
+[2025-08-12T05:32:27.192Z] 🚀 Server running on http://localhost:3001
+[2025-08-12T07:15:16.633Z] server.js booted
+[2025-08-12T07:15:16.892Z] STEP: Starting serverStart.js
+[2025-08-12T07:15:16.901Z] 🚀 Server running on http://localhost:3001
+[2025-08-12T07:24:20.335Z] server.js booted
+[2025-08-12T07:24:20.548Z] STEP: Starting serverStart.js
+[2025-08-12T07:24:20.554Z] 🚀 Server running on http://localhost:3001
+[2025-08-12T07:30:57.852Z] server.js booted
+[2025-08-12T07:30:58.080Z] STEP: Starting serverStart.js
+[2025-08-12T07:30:58.086Z] 🚀 Server running on http://localhost:3001
+[2025-08-12T07:39:27.954Z] server.js booted
+[2025-08-12T07:39:28.157Z] STEP: Starting serverStart.js
+[2025-08-12T07:39:28.162Z] 🚀 Server running on http://localhost:3001
+[2025-08-12T07:41:39.827Z] server.js booted
+[2025-08-12T07:41:40.039Z] STEP: Starting serverStart.js
+[2025-08-12T07:41:40.044Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T06:10:01.883Z] server.js booted
+[2025-08-13T06:10:02.230Z] STEP: Starting serverStart.js
+[2025-08-13T06:10:02.290Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T09:39:31.922Z] server.js booted
+[2025-08-13T09:39:32.132Z] STEP: Starting serverStart.js
+[2025-08-13T09:39:32.138Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T09:43:09.589Z] server.js booted
+[2025-08-13T09:43:09.833Z] STEP: Starting serverStart.js
+[2025-08-13T09:43:09.838Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T09:59:44.087Z] server.js booted
+[2025-08-13T09:59:44.285Z] STEP: Starting serverStart.js
+[2025-08-13T09:59:44.290Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T10:03:10.112Z] server.js booted
+[2025-08-13T10:03:10.477Z] STEP: Starting serverStart.js
+[2025-08-13T10:03:10.489Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T10:27:11.322Z] server.js booted
+[2025-08-13T10:27:11.608Z] STEP: Starting serverStart.js
+[2025-08-13T10:27:11.617Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T10:27:26.976Z] ❌ Sync route failed: TypeError: data.value is not iterable (cannot read property undefined)
+    at syncUsers (D:\DELTA_Previous_Tenant_Packaged\syncUsers.js:86:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async D:\DELTA_Previous_Tenant_Packaged\serverStart.js:77:21
+[2025-08-13T10:29:12.394Z] server.js booted
+[2025-08-13T10:29:12.665Z] STEP: Starting serverStart.js
+[2025-08-13T10:29:12.673Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T10:29:21.677Z] ❌ Sync route failed: TypeError: data.value is not iterable (cannot read property undefined)
+    at syncUsers (D:\DELTA_Previous_Tenant_Packaged\syncUsers.js:86:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async D:\DELTA_Previous_Tenant_Packaged\serverStart.js:77:21
+[2025-08-13T10:31:32.617Z] server.js booted
+[2025-08-13T10:31:32.894Z] STEP: Starting serverStart.js
+[2025-08-13T10:31:32.902Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T10:51:40.875Z] server.js booted
+[2025-08-13T10:51:41.192Z] STEP: Starting serverStart.js
+[2025-08-13T10:51:41.199Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T13:00:21.531Z] server.js booted
+[2025-08-13T13:00:21.881Z] STEP: Starting serverStart.js
+[2025-08-13T13:00:21.886Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T13:16:33.713Z] server.js booted
+[2025-08-13T13:16:33.923Z] STEP: Starting serverStart.js
+[2025-08-13T13:16:33.928Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T13:21:51.552Z] server.js booted
+[2025-08-13T13:21:51.753Z] STEP: Starting serverStart.js
+[2025-08-13T13:21:51.758Z] 🚀 Server running on http://localhost:3001
+[2025-08-13T13:23:38.038Z] server.js booted
+[2025-08-13T13:23:38.281Z] STEP: Starting serverStart.js
+[2025-08-13T13:23:38.286Z] 🚀 Server running on http://localhost:3001
+[2025-08-14T06:08:54.372Z] server.js booted
+[2025-08-14T06:08:54.629Z] STEP: Starting serverStart.js
+[2025-08-14T06:08:54.636Z] 🚀 Server running on http://localhost:3001
+[2025-08-14T06:35:56.284Z] server.js booted
+[2025-08-14T06:35:56.505Z] STEP: Starting serverStart.js
+[2025-08-14T06:35:56.510Z] 🚀 Server running on http://localhost:3001
+[2025-08-14T11:53:21.284Z] server.js booted
+[2025-08-14T11:53:21.627Z] STEP: Starting serverStart.js
+[2025-08-14T11:53:21.631Z] 🚀 Server running on http://localhost:3001
+[2025-08-14T12:08:30.820Z] server.js booted
+[2025-08-14T12:08:30.979Z] STEP: Starting serverStart.js
+[2025-08-14T12:08:30.982Z] 🚀 Server running on http://localhost:3001
+[2025-08-14T12:35:30.821Z] server.js booted
+[2025-08-14T12:35:31.034Z] STEP: Starting serverStart.js
+[2025-08-14T12:35:31.039Z] 🚀 Server running on http://localhost:3001
+[2025-08-14T13:35:08.870Z] server.js booted
+[2025-08-14T13:35:09.080Z] STEP: Starting serverStart.js
+[2025-08-14T13:35:09.085Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T03:50:39.443Z] server.js booted
+[2025-08-15T03:50:39.592Z] STEP: Starting serverStart.js
+[2025-08-15T03:50:39.596Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T05:17:58.711Z] server.js booted
+[2025-08-15T05:17:58.990Z] STEP: Starting serverStart.js
+[2025-08-15T05:17:58.999Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T05:42:16.820Z] server.js booted
+[2025-08-15T05:42:17.025Z] STEP: Starting serverStart.js
+[2025-08-15T05:42:17.031Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T05:57:49.005Z] server.js booted
+[2025-08-15T05:57:49.276Z] STEP: Starting serverStart.js
+[2025-08-15T05:57:49.280Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T06:00:58.398Z] server.js booted
+[2025-08-15T06:00:58.523Z] STEP: Starting serverStart.js
+[2025-08-15T06:00:58.527Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T06:03:21.685Z] server.js booted
+[2025-08-15T06:03:21.845Z] STEP: Starting serverStart.js
+[2025-08-15T06:03:21.849Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T06:16:45.061Z] server.js booted
+[2025-08-15T06:16:45.274Z] STEP: Starting serverStart.js
+[2025-08-15T06:16:45.279Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T06:20:41.777Z] server.js booted
+[2025-08-15T06:20:42.033Z] STEP: Starting serverStart.js
+[2025-08-15T06:20:42.038Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T06:24:35.258Z] server.js booted
+[2025-08-15T06:24:35.468Z] STEP: Starting serverStart.js
+[2025-08-15T06:24:35.477Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T07:26:51.508Z] server.js booted
+[2025-08-15T07:26:51.811Z] STEP: Starting serverStart.js
+[2025-08-15T07:26:51.816Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T07:32:27.547Z] server.js booted
+[2025-08-15T07:32:27.745Z] STEP: Starting serverStart.js
+[2025-08-15T07:32:27.750Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T07:56:28.713Z] server.js booted
+[2025-08-15T07:56:28.925Z] STEP: Starting serverStart.js
+[2025-08-15T07:56:28.932Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T09:41:47.235Z] server.js booted
+[2025-08-15T09:41:47.398Z] STEP: Starting serverStart.js
+[2025-08-15T09:41:47.403Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T09:53:04.035Z] server.js booted
+[2025-08-15T09:53:04.237Z] STEP: Starting serverStart.js
+[2025-08-15T09:53:04.244Z] 🚀 Server running on http://localhost:3001
+[2025-08-15T12:18:19.468Z] server.js booted
+[2025-08-15T12:18:19.780Z] STEP: Starting serverStart.js
+[2025-08-15T12:18:19.784Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T04:48:48.940Z] server.js booted
+[2025-08-16T04:48:49.147Z] STEP: Starting serverStart.js
+[2025-08-16T04:48:49.154Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T05:08:18.564Z] server.js booted
+[2025-08-16T05:08:18.799Z] STEP: Starting serverStart.js
+[2025-08-16T05:08:18.806Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T06:13:48.640Z] server.js booted
+[2025-08-16T06:13:48.784Z] STEP: Starting serverStart.js
+[2025-08-16T06:13:48.787Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T06:19:45.318Z] server.js booted
+[2025-08-16T06:19:45.457Z] STEP: Starting serverStart.js
+[2025-08-16T06:19:45.462Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T06:47:28.193Z] server.js booted
+[2025-08-16T06:47:28.327Z] STEP: Starting serverStart.js
+[2025-08-16T06:47:28.331Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T06:48:25.244Z] server.js booted
+[2025-08-16T06:48:25.384Z] STEP: Starting serverStart.js
+[2025-08-16T06:48:25.392Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T07:06:41.685Z] server.js booted
+[2025-08-16T07:06:41.909Z] STEP: Starting serverStart.js
+[2025-08-16T07:06:41.915Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T07:06:54.350Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:06:54.357Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:00.287Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:02.534Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:02.535Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:02.537Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:02.539Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:02.541Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:02.542Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:08.416Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:10.658Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:10.660Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:10.662Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:10.664Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:10.665Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:10.667Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:16.498Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:18.732Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:18.734Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:18.736Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:18.738Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:18.740Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:18.742Z] Uncaught Exception: Error: SQLITE_BUSY: database is locked
+[2025-08-16T07:07:54.518Z] server.js booted
+[2025-08-16T07:07:54.752Z] STEP: Starting serverStart.js
+[2025-08-16T07:07:54.757Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T07:08:24.483Z] server.js booted
+[2025-08-16T07:08:24.681Z] STEP: Starting serverStart.js
+[2025-08-16T07:08:24.687Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T07:34:06.004Z] server.js booted
+[2025-08-16T07:34:06.244Z] STEP: Starting serverStart.js
+[2025-08-16T07:34:06.249Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T08:33:49.704Z] server.js booted
+[2025-08-16T08:33:49.955Z] STEP: Starting serverStart.js
+[2025-08-16T08:33:49.962Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T08:39:21.734Z] server.js booted
+[2025-08-16T08:39:21.985Z] STEP: Starting serverStart.js
+[2025-08-16T08:39:21.989Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T11:09:40.584Z] server.js booted
+[2025-08-16T11:09:40.721Z] STEP: Starting serverStart.js
+[2025-08-16T11:09:40.725Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T11:18:47.849Z] server.js booted
+[2025-08-16T11:18:47.978Z] STEP: Starting serverStart.js
+[2025-08-16T11:18:47.984Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T11:34:49.671Z] server.js booted
+[2025-08-16T11:34:49.805Z] STEP: Starting serverStart.js
+[2025-08-16T11:34:49.809Z] 🚀 Server running on http://localhost:3001
+[2025-08-16T11:47:14.737Z] server.js booted
+[2025-08-16T11:47:14.937Z] STEP: Starting serverStart.js
+[2025-08-16T11:47:14.942Z] 🚀 Server running on http://localhost:3001
+[2025-08-17T06:22:55.224Z] server.js booted
+[2025-08-17T06:22:55.452Z] STEP: Starting serverStart.js
+[2025-08-17T06:22:55.458Z] 🚀 Server running on http://localhost:3001
+[2025-08-17T09:05:31.905Z] server.js booted
+[2025-08-17T09:05:32.052Z] STEP: Starting serverStart.js
+[2025-08-17T09:05:32.055Z] 🚀 Server running on http://localhost:3001
+[2025-08-17T09:28:27.433Z] server.js booted
+[2025-08-17T09:28:27.562Z] STEP: Starting serverStart.js
+[2025-08-17T09:28:27.568Z] 🚀 Server running on http://localhost:3001
+[2025-08-17T09:35:53.367Z] server.js booted
+[2025-08-17T09:35:53.591Z] STEP: Starting serverStart.js
+[2025-08-17T09:35:53.595Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T05:04:01.115Z] server.js booted
+[2025-08-18T05:04:01.328Z] STEP: Starting serverStart.js
+[2025-08-18T05:04:01.335Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T05:11:04.852Z] server.js booted
+[2025-08-18T05:11:05.054Z] STEP: Starting serverStart.js
+[2025-08-18T05:11:05.063Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T05:11:45.047Z] server.js booted
+[2025-08-18T05:11:45.241Z] STEP: Starting serverStart.js
+[2025-08-18T05:11:45.246Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T05:21:01.630Z] server.js booted
+[2025-08-18T05:21:01.863Z] STEP: Starting serverStart.js
+[2025-08-18T05:21:01.868Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T06:24:35.577Z] server.js booted
+[2025-08-18T06:24:35.805Z] STEP: Starting serverStart.js
+[2025-08-18T06:24:35.810Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T06:27:50.077Z] server.js booted
+[2025-08-18T06:27:50.293Z] STEP: Starting serverStart.js
+[2025-08-18T06:27:50.298Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T06:32:54.524Z] server.js booted
+[2025-08-18T06:32:54.734Z] STEP: Starting serverStart.js
+[2025-08-18T06:32:54.743Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T06:47:29.539Z] server.js booted
+[2025-08-18T06:47:29.794Z] STEP: Starting serverStart.js
+[2025-08-18T06:47:29.799Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T06:53:43.522Z] server.js booted
+[2025-08-18T06:53:43.732Z] STEP: Starting serverStart.js
+[2025-08-18T06:53:43.741Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T07:00:22.794Z] server.js booted
+[2025-08-18T07:00:23.005Z] STEP: Starting serverStart.js
+[2025-08-18T07:00:23.014Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T09:32:56.868Z] server.js booted
+[2025-08-18T09:32:57.004Z] STEP: Starting serverStart.js
+[2025-08-18T09:32:57.007Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T09:55:15.445Z] server.js booted
+[2025-08-18T09:55:15.659Z] STEP: Starting serverStart.js
+[2025-08-18T09:55:15.667Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T09:55:37.752Z] server.js booted
+[2025-08-18T09:55:37.971Z] STEP: Starting serverStart.js
+[2025-08-18T09:55:37.981Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T10:12:23.463Z] server.js booted
+[2025-08-18T10:12:23.665Z] STEP: Starting serverStart.js
+[2025-08-18T10:12:23.672Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T10:22:11.096Z] server.js booted
+[2025-08-18T10:22:11.299Z] STEP: Starting serverStart.js
+[2025-08-18T10:22:11.307Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T10:22:46.721Z] server.js booted
+[2025-08-18T10:22:46.914Z] STEP: Starting serverStart.js
+[2025-08-18T10:22:46.920Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T10:30:54.974Z] server.js booted
+[2025-08-18T10:30:55.220Z] STEP: Starting serverStart.js
+[2025-08-18T10:30:55.226Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T10:40:35.131Z] server.js booted
+[2025-08-18T10:40:35.362Z] STEP: Starting serverStart.js
+[2025-08-18T10:40:35.368Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T10:47:15.807Z] server.js booted
+[2025-08-18T10:47:16.016Z] STEP: Starting serverStart.js
+[2025-08-18T10:47:16.024Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T10:48:20.560Z] server.js booted
+[2025-08-18T10:48:20.769Z] STEP: Starting serverStart.js
+[2025-08-18T10:48:20.777Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:04:59.279Z] server.js booted
+[2025-08-18T12:04:59.596Z] STEP: Starting serverStart.js
+[2025-08-18T12:04:59.601Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:05:35.273Z] server.js booted
+[2025-08-18T12:05:35.474Z] STEP: Starting serverStart.js
+[2025-08-18T12:05:35.481Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:06:09.702Z] server.js booted
+[2025-08-18T12:06:09.910Z] STEP: Starting serverStart.js
+[2025-08-18T12:06:09.919Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:07:42.562Z] server.js booted
+[2025-08-18T12:07:42.814Z] STEP: Starting serverStart.js
+[2025-08-18T12:07:42.819Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:20:33.364Z] server.js booted
+[2025-08-18T12:20:33.577Z] STEP: Starting serverStart.js
+[2025-08-18T12:20:33.584Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:25:03.007Z] server.js booted
+[2025-08-18T12:25:03.213Z] STEP: Starting serverStart.js
+[2025-08-18T12:25:03.220Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:36:17.540Z] server.js booted
+[2025-08-18T12:36:17.749Z] STEP: Starting serverStart.js
+[2025-08-18T12:36:17.754Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:42:05.440Z] server.js booted
+[2025-08-18T12:42:05.660Z] STEP: Starting serverStart.js
+[2025-08-18T12:42:05.667Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:44:36.521Z] server.js booted
+[2025-08-18T12:44:36.731Z] STEP: Starting serverStart.js
+[2025-08-18T12:44:36.738Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T12:45:47.987Z] server.js booted
+[2025-08-18T12:45:48.245Z] STEP: Starting serverStart.js
+[2025-08-18T12:45:48.251Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T13:16:47.642Z] server.js booted
+[2025-08-18T13:16:47.946Z] STEP: Starting serverStart.js
+[2025-08-18T13:16:47.951Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T13:21:02.999Z] server.js booted
+[2025-08-18T13:21:03.281Z] STEP: Starting serverStart.js
+[2025-08-18T13:21:03.288Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T13:21:36.733Z] server.js booted
+[2025-08-18T13:21:36.947Z] STEP: Starting serverStart.js
+[2025-08-18T13:21:36.953Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T13:28:15.998Z] server.js booted
+[2025-08-18T13:28:16.200Z] STEP: Starting serverStart.js
+[2025-08-18T13:28:16.208Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T13:31:09.876Z] server.js booted
+[2025-08-18T13:31:10.095Z] STEP: Starting serverStart.js
+[2025-08-18T13:31:10.102Z] 🚀 Server running on http://localhost:3001
+[2025-08-18T13:32:50.569Z] server.js booted
+[2025-08-18T13:32:50.778Z] STEP: Starting serverStart.js
+[2025-08-18T13:32:50.785Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T02:48:24.801Z] server.js booted
+[2025-08-19T02:48:25.136Z] STEP: Starting serverStart.js
+[2025-08-19T02:48:25.146Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T04:02:13.092Z] server.js booted
+[2025-08-19T04:02:13.326Z] STEP: Starting serverStart.js
+[2025-08-19T04:02:13.333Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T04:40:02.582Z] server.js booted
+[2025-08-19T04:40:02.786Z] STEP: Starting serverStart.js
+[2025-08-19T04:40:02.794Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T06:08:43.740Z] server.js booted
+[2025-08-19T06:08:43.979Z] STEP: Starting serverStart.js
+[2025-08-19T06:08:43.984Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:06:38.051Z] server.js booted
+[2025-08-19T07:06:38.264Z] STEP: Starting serverStart.js
+[2025-08-19T07:06:38.270Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:12:48.917Z] server.js booted
+[2025-08-19T07:12:49.127Z] STEP: Starting serverStart.js
+[2025-08-19T07:12:49.135Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:17:27.634Z] server.js booted
+[2025-08-19T07:17:27.867Z] STEP: Starting serverStart.js
+[2025-08-19T07:17:27.872Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:19:35.693Z] server.js booted
+[2025-08-19T07:19:35.910Z] STEP: Starting serverStart.js
+[2025-08-19T07:19:35.916Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:21:40.166Z] server.js booted
+[2025-08-19T07:21:40.374Z] STEP: Starting serverStart.js
+[2025-08-19T07:21:40.380Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:22:32.774Z] server.js booted
+[2025-08-19T07:22:32.969Z] STEP: Starting serverStart.js
+[2025-08-19T07:22:32.975Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:43:59.795Z] server.js booted
+[2025-08-19T07:44:00.071Z] STEP: Starting serverStart.js
+[2025-08-19T07:44:00.082Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:44:48.400Z] server.js booted
+[2025-08-19T07:44:48.595Z] STEP: Starting serverStart.js
+[2025-08-19T07:44:48.600Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:45:17.778Z] server.js booted
+[2025-08-19T07:45:18.040Z] STEP: Starting serverStart.js
+[2025-08-19T07:45:18.045Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:50:07.718Z] server.js booted
+[2025-08-19T07:50:07.961Z] STEP: Starting serverStart.js
+[2025-08-19T07:50:07.966Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T07:59:21.788Z] server.js booted
+[2025-08-19T07:59:21.924Z] STEP: Starting serverStart.js
+[2025-08-19T07:59:21.928Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T08:03:05.902Z] server.js booted
+[2025-08-19T08:03:06.058Z] STEP: Starting serverStart.js
+[2025-08-19T08:03:06.063Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T08:03:55.747Z] server.js booted
+[2025-08-19T08:03:55.921Z] STEP: Starting serverStart.js
+[2025-08-19T08:03:55.924Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T08:45:33.316Z] server.js booted
+[2025-08-19T08:45:33.448Z] STEP: Starting serverStart.js
+[2025-08-19T08:45:33.451Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T08:52:25.082Z] server.js booted
+[2025-08-19T08:52:25.212Z] STEP: Starting serverStart.js
+[2025-08-19T08:52:25.216Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T08:58:34.833Z] server.js booted
+[2025-08-19T08:58:34.985Z] STEP: Starting serverStart.js
+[2025-08-19T08:58:34.989Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T09:00:52.846Z] server.js booted
+[2025-08-19T09:00:52.971Z] STEP: Starting serverStart.js
+[2025-08-19T09:00:52.974Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T11:29:44.182Z] server.js booted
+[2025-08-19T11:29:44.452Z] STEP: Starting serverStart.js
+[2025-08-19T11:29:44.457Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T12:20:23.638Z] server.js booted
+[2025-08-19T12:20:23.860Z] STEP: Starting serverStart.js
+[2025-08-19T12:20:23.868Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T12:23:39.863Z] server.js booted
+[2025-08-19T12:23:40.064Z] STEP: Starting serverStart.js
+[2025-08-19T12:23:40.070Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T12:25:32.633Z] server.js booted
+[2025-08-19T12:25:32.839Z] STEP: Starting serverStart.js
+[2025-08-19T12:25:32.845Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T12:26:14.816Z] server.js booted
+[2025-08-19T12:26:15.007Z] STEP: Starting serverStart.js
+[2025-08-19T12:26:15.014Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T12:29:03.928Z] server.js booted
+[2025-08-19T12:29:04.140Z] STEP: Starting serverStart.js
+[2025-08-19T12:29:04.146Z] 🚀 Server running on http://localhost:3001
+[2025-08-19T12:38:09.041Z] server.js booted
+[2025-08-19T12:38:09.323Z] STEP: Starting serverStart.js
+[2025-08-19T12:38:09.328Z] 🚀 Server running on http://localhost:3001
+[2025-08-20T06:22:07.582Z] server.js booted
+[2025-08-20T06:22:07.724Z] STEP: Starting serverStart.js
+[2025-08-20T06:22:07.727Z] 🚀 Server running on http://localhost:3001
+[2025-08-20T06:22:35.663Z] server.js booted
+[2025-08-20T06:22:35.833Z] STEP: Starting serverStart.js
+[2025-08-20T06:22:35.838Z] 🚀 Server running on http://localhost:3001
+[2025-08-20T06:22:39.616Z] Login failed: TypeError: fetch failed
+    at Object.fetch (node:internal/deps/undici/undici:11118:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getTokenAppOnly (D:\DELTA_Previous_Tenant_Packaged\auth.js:19:17)
+    at async D:\DELTA_Previous_Tenant_Packaged\serverStart.js:61:21
+[2025-08-20T07:36:19.426Z] server.js booted
+[2025-08-20T07:36:19.820Z] STEP: Starting serverStart.js
+[2025-08-20T07:36:19.827Z] 🚀 Server running on http://localhost:3001
+[2025-08-20T07:40:08.682Z] server.js booted
+[2025-08-20T07:40:08.957Z] STEP: Starting serverStart.js
+[2025-08-20T07:40:08.969Z] 🚀 Server running on http://localhost:3001
+[2025-08-21T04:30:09.792Z] server.js booted
+[2025-08-21T04:30:10.120Z] STEP: Starting serverStart.js
+[2025-08-21T04:30:10.127Z] 🚀 Server running on http://localhost:3001
+[2025-08-21T12:55:34.373Z] server.js booted
+[2025-08-21T12:55:34.706Z] STEP: Starting serverStart.js
+[2025-08-21T12:55:34.713Z] 🚀 Server running on http://localhost:3001
+[2025-08-22T05:52:15.296Z] server.js booted
+[2025-08-22T05:52:15.575Z] STEP: Starting serverStart.js
+[2025-08-22T05:52:15.580Z] 🚀 Server running on http://localhost:3001
+[2025-08-22T06:07:38.729Z] server.js booted
+[2025-08-22T06:07:38.994Z] STEP: Starting serverStart.js
+[2025-08-22T06:07:39.000Z] 🚀 Server running on http://localhost:3001
+[2025-08-22T06:23:14.186Z] server.js booted
+[2025-08-22T06:23:14.364Z] STEP: Starting serverStart.js
+[2025-08-22T06:23:14.367Z] 🚀 Server running on http://localhost:3001
+[2025-08-22T06:29:10.697Z] server.js booted
+[2025-08-22T06:29:10.822Z] STEP: Starting serverStart.js
+[2025-08-22T06:29:10.826Z] 🚀 Server running on http://localhost:3001
+[2025-08-22T06:29:45.480Z] server.js booted
+[2025-08-22T06:29:45.605Z] STEP: Starting serverStart.js
+[2025-08-22T06:29:45.611Z] 🚀 Server running on http://localhost:3001
+[2025-08-22T06:30:11.320Z] server.js booted
+[2025-08-22T06:30:11.448Z] STEP: Starting serverStart.js
+[2025-08-22T06:30:11.453Z] 🚀 Server running on http://localhost:3001
+[2025-08-24T09:56:20.113Z] server.js booted
+[2025-08-24T09:56:20.504Z] STEP: Starting serverStart.js
+[2025-08-24T09:56:20.510Z] 🚀 Server running on http://localhost:3001
+[2025-08-24T12:41:01.427Z] server.js booted
+[2025-08-24T12:41:01.757Z] STEP: Starting serverStart.js
+[2025-08-24T12:41:01.764Z] 🚀 Server running on http://localhost:3001
+[2025-08-24T13:25:45.005Z] server.js booted
+[2025-08-24T13:25:45.245Z] STEP: Starting serverStart.js
+[2025-08-24T13:25:45.262Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:29:09.436Z] server.js booted
+[2025-08-25T04:29:09.661Z] STEP: Starting serverStart.js
+[2025-08-25T04:29:09.666Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:31:03.997Z] server.js booted
+[2025-08-25T04:31:04.204Z] STEP: Starting serverStart.js
+[2025-08-25T04:31:04.212Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:35:51.299Z] server.js booted
+[2025-08-25T04:35:51.494Z] STEP: Starting serverStart.js
+[2025-08-25T04:35:51.502Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:37:57.623Z] server.js booted
+[2025-08-25T04:37:57.835Z] STEP: Starting serverStart.js
+[2025-08-25T04:37:57.843Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:38:08.324Z] server.js booted
+[2025-08-25T04:38:08.517Z] STEP: Starting serverStart.js
+[2025-08-25T04:38:08.523Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:43:00.880Z] server.js booted
+[2025-08-25T04:43:01.087Z] STEP: Starting serverStart.js
+[2025-08-25T04:43:01.093Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:43:41.764Z] server.js booted
+[2025-08-25T04:43:41.969Z] STEP: Starting serverStart.js
+[2025-08-25T04:43:41.977Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:45:56.917Z] server.js booted
+[2025-08-25T04:45:57.131Z] STEP: Starting serverStart.js
+[2025-08-25T04:45:57.138Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:46:11.766Z] server.js booted
+[2025-08-25T04:46:11.985Z] STEP: Starting serverStart.js
+[2025-08-25T04:46:11.990Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T04:47:12.600Z] server.js booted
+[2025-08-25T04:47:12.800Z] STEP: Starting serverStart.js
+[2025-08-25T04:47:12.810Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T05:40:28.186Z] server.js booted
+[2025-08-25T05:40:28.329Z] STEP: Starting serverStart.js
+[2025-08-25T05:40:28.333Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T05:43:42.588Z] server.js booted
+[2025-08-25T05:43:42.718Z] STEP: Starting serverStart.js
+[2025-08-25T05:43:42.722Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T05:44:06.095Z] server.js booted
+[2025-08-25T05:44:06.228Z] STEP: Starting serverStart.js
+[2025-08-25T05:44:06.233Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T05:48:16.579Z] server.js booted
+[2025-08-25T05:48:16.707Z] STEP: Starting serverStart.js
+[2025-08-25T05:48:16.710Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T05:52:06.531Z] server.js booted
+[2025-08-25T05:52:06.663Z] STEP: Starting serverStart.js
+[2025-08-25T05:52:06.667Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T06:11:58.071Z] server.js booted
+[2025-08-25T06:11:58.222Z] STEP: Starting serverStart.js
+[2025-08-25T06:11:58.226Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T06:17:55.378Z] server.js booted
+[2025-08-25T06:17:55.508Z] STEP: Starting serverStart.js
+[2025-08-25T06:17:55.512Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T06:26:46.721Z] server.js booted
+[2025-08-25T06:26:46.921Z] STEP: Starting serverStart.js
+[2025-08-25T06:26:46.930Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T06:33:50.840Z] server.js booted
+[2025-08-25T06:33:51.037Z] STEP: Starting serverStart.js
+[2025-08-25T06:33:51.043Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T06:35:03.722Z] server.js booted
+[2025-08-25T06:35:03.930Z] STEP: Starting serverStart.js
+[2025-08-25T06:35:03.935Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T07:25:38.098Z] server.js booted
+[2025-08-25T07:25:38.352Z] STEP: Starting serverStart.js
+[2025-08-25T07:25:38.367Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T09:30:28.682Z] server.js booted
+[2025-08-25T09:30:28.824Z] STEP: Starting serverStart.js
+[2025-08-25T09:30:28.827Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T09:36:59.870Z] server.js booted
+[2025-08-25T09:37:00.074Z] STEP: Starting serverStart.js
+[2025-08-25T09:37:00.079Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T09:37:42.834Z] server.js booted
+[2025-08-25T09:37:43.034Z] STEP: Starting serverStart.js
+[2025-08-25T09:37:43.040Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T09:40:25.771Z] server.js booted
+[2025-08-25T09:40:26.046Z] STEP: Starting serverStart.js
+[2025-08-25T09:40:26.058Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:04:11.754Z] server.js booted
+[2025-08-25T10:04:12.075Z] STEP: Starting serverStart.js
+[2025-08-25T10:04:12.082Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:04:52.337Z] server.js booted
+[2025-08-25T10:04:52.644Z] STEP: Starting serverStart.js
+[2025-08-25T10:04:52.658Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:05:56.036Z] server.js booted
+[2025-08-25T10:05:56.325Z] STEP: Starting serverStart.js
+[2025-08-25T10:05:56.336Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:06:25.488Z] server.js booted
+[2025-08-25T10:06:25.812Z] STEP: Starting serverStart.js
+[2025-08-25T10:06:25.819Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:14:43.024Z] server.js booted
+[2025-08-25T10:14:43.290Z] STEP: Starting serverStart.js
+[2025-08-25T10:14:43.297Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:15:01.155Z] server.js booted
+[2025-08-25T10:15:01.428Z] STEP: Starting serverStart.js
+[2025-08-25T10:15:01.436Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:26:44.970Z] server.js booted
+[2025-08-25T10:26:45.245Z] STEP: Starting serverStart.js
+[2025-08-25T10:26:45.258Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:31:15.370Z] server.js booted
+[2025-08-25T10:31:15.694Z] STEP: Starting serverStart.js
+[2025-08-25T10:31:15.701Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:31:44.620Z] Login failed: Error: Token request failed: 400 Bad Request - {"error":"invalid_request","error_description":"AADSTS900023: Specified tenant identifier 'undefined' is neither a valid DNS name, nor a valid external domain. Trace ID: 4ec4031a-422b-4eed-ab2c-cb8fcac60000 Correlation ID: bd390075-3ea3-439c-9082-c227f433a871 Timestamp: 2025-08-25 10:31:44Z","error_codes":[900023],"timestamp":"2025-08-25 10:31:44Z","trace_id":"4ec4031a-422b-4eed-ab2c-cb8fcac60000","correlation_id":"bd390075-3ea3-439c-9082-c227f433a871","error_uri":"https://login.microsoftonline.com/error?code=900023"}
+    at getTokenAppOnly (D:\DELTA_Previous_Tenant_Packaged\auth.js:33:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async D:\DELTA_Previous_Tenant_Packaged\serverStart.js:61:21
+[2025-08-25T10:33:27.339Z] server.js booted
+[2025-08-25T10:33:27.636Z] STEP: Starting serverStart.js
+[2025-08-25T10:33:27.645Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:34:04.651Z] Login failed: Error: Token request failed: 400 Bad Request - {"error":"invalid_request","error_description":"AADSTS900023: Specified tenant identifier 'undefined' is neither a valid DNS name, nor a valid external domain. Trace ID: 38823346-bd32-4839-94c7-5ff9ce499f00 Correlation ID: 269ee960-0219-40d4-93f9-57d8d3abd4cc Timestamp: 2025-08-25 10:34:04Z","error_codes":[900023],"timestamp":"2025-08-25 10:34:04Z","trace_id":"38823346-bd32-4839-94c7-5ff9ce499f00","correlation_id":"269ee960-0219-40d4-93f9-57d8d3abd4cc","error_uri":"https://login.microsoftonline.com/error?code=900023"}
+    at getTokenAppOnly (D:\DELTA_Previous_Tenant_Packaged\auth.js:33:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async D:\DELTA_Previous_Tenant_Packaged\serverStart.js:61:21
+[2025-08-25T10:35:38.035Z] server.js booted
+[2025-08-25T10:35:38.438Z] STEP: Starting serverStart.js
+[2025-08-25T10:35:38.451Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T10:38:33.413Z] server.js booted
+[2025-08-25T10:38:33.689Z] STEP: Starting serverStart.js
+[2025-08-25T10:38:33.698Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T11:44:12.497Z] server.js booted
+[2025-08-25T11:44:12.647Z] STEP: Starting serverStart.js
+[2025-08-25T11:44:12.650Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T12:27:51.537Z] server.js booted
+[2025-08-25T12:27:51.680Z] STEP: Starting serverStart.js
+[2025-08-25T12:27:51.684Z] 🚀 Server running on http://localhost:3001
+[2025-08-25T13:07:39.749Z] server.js booted
+[2025-08-25T13:07:39.972Z] STEP: Starting serverStart.js
+[2025-08-25T13:07:39.981Z] 🚀 Server running on http://localhost:3001
+[2025-08-26T04:43:56.430Z] server.js booted
+[2025-08-26T04:43:56.569Z] STEP: Starting serverStart.js
+[2025-08-26T04:43:56.572Z] 🚀 Server running on http://localhost:3001
+[2025-08-26T06:22:22.581Z] server.js booted
+[2025-08-26T06:22:22.782Z] STEP: Starting serverStart.js
+[2025-08-26T06:22:22.789Z] 🚀 Server running on http://localhost:3001
+[2025-08-26T06:40:05.585Z] server.js booted
+[2025-08-26T06:40:05.797Z] STEP: Starting serverStart.js
+[2025-08-26T06:40:05.802Z] 🚀 Server running on http://localhost:3001
+[2025-08-26T12:09:45.413Z] server.js booted
+[2025-08-26T12:09:45.631Z] STEP: Starting serverStart.js
+[2025-08-26T12:09:45.640Z] 🚀 Server running on http://localhost:3001
+[2025-08-27T10:04:51.421Z] server.js booted
+[2025-08-27T10:04:51.643Z] STEP: Starting serverStart.js
+[2025-08-27T10:04:51.647Z] 🚀 Server running on http://localhost:3001
+[2025-08-27T11:56:14.564Z] server.js booted
+[2025-08-27T11:56:14.884Z] STEP: Starting serverStart.js
+[2025-08-27T11:56:14.891Z] 🚀 Server running on http://localhost:3001
+[2025-08-27T12:00:07.554Z] server.js booted
+[2025-08-27T12:00:07.771Z] STEP: Starting serverStart.js
+[2025-08-27T12:00:07.777Z] 🚀 Server running on http://localhost:3001
+[2025-08-28T06:43:03.575Z] server.js booted
+[2025-08-28T06:43:03.773Z] STEP: Starting serverStart.js
+[2025-08-28T06:43:03.777Z] 🚀 Server running on http://localhost:3001
+[2025-08-29T05:22:07.643Z] server.js booted
+[2025-08-29T05:22:07.969Z] STEP: Starting serverStart.js
+[2025-08-29T05:22:07.975Z] 🚀 Server running on http://localhost:3001
+[2025-08-29T07:36:16.629Z] server.js booted
+[2025-08-29T07:36:16.871Z] STEP: Starting serverStart.js
+[2025-08-29T07:36:16.877Z] 🚀 Server running on http://localhost:3001
+[2025-08-29T09:22:24.806Z] server.js booted
+[2025-08-29T09:22:25.033Z] STEP: Starting serverStart.js
+[2025-08-29T09:22:25.041Z] 🚀 Server running on http://localhost:3001
+[2025-08-29T09:36:39.773Z] server.js booted
+[2025-08-29T09:36:39.978Z] STEP: Starting serverStart.js
+[2025-08-29T09:36:39.984Z] 🚀 Server running on http://localhost:3001
+[2025-08-29T09:37:22.257Z] server.js booted
+[2025-08-29T09:37:22.458Z] STEP: Starting serverStart.js
+[2025-08-29T09:37:22.465Z] 🚀 Server running on http://localhost:3001
+[2025-08-29T10:09:15.998Z] server.js booted
+[2025-08-29T10:09:16.195Z] STEP: Starting serverStart.js
+[2025-08-29T10:09:16.202Z] 🚀 Server running on http://localhost:3001
+[2025-08-29T12:48:55.590Z] server.js booted
+[2025-08-29T12:48:55.828Z] STEP: Starting serverStart.js
+[2025-08-29T12:48:55.834Z] 🚀 Server running on http://localhost:3001
+[2025-08-30T04:43:25.112Z] server.js booted
+[2025-08-30T04:43:25.325Z] STEP: Starting serverStart.js
+[2025-08-30T04:43:25.333Z] 🚀 Server running on http://localhost:3001
+[2025-08-30T07:00:12.185Z] server.js booted
+[2025-08-30T07:00:12.402Z] STEP: Starting serverStart.js
+[2025-08-30T07:00:12.409Z] 🚀 Server running on http://localhost:3001
+[2025-08-31T06:14:33.000Z] server.js booted
+[2025-08-31T06:14:33.205Z] STEP: Starting serverStart.js
+[2025-08-31T06:14:33.212Z] 🚀 Server running on http://localhost:3001
+[2025-08-31T09:36:32.303Z] server.js booted
+[2025-08-31T09:36:32.575Z] STEP: Starting serverStart.js
+[2025-08-31T09:36:32.584Z] 🚀 Server running on http://localhost:3001
+[2025-09-02T12:23:23.365Z] server.js booted
+[2025-09-02T12:23:23.604Z] STEP: Starting serverStart.js
+[2025-09-02T12:23:23.636Z] 🚀 Server running on http://localhost:3001
+[2025-09-02T12:59:18.499Z] server.js booted
+[2025-09-02T12:59:18.707Z] STEP: Starting serverStart.js
+[2025-09-02T12:59:18.715Z] 🚀 Server running on http://localhost:3001
+[2025-09-03T03:42:07.397Z] server.js booted
+[2025-09-03T03:42:07.666Z] STEP: Starting serverStart.js
+[2025-09-03T03:42:07.698Z] 🚀 Server running on http://localhost:3001
+[2025-09-03T11:34:00.124Z] server.js booted
+[2025-09-03T11:34:00.538Z] STEP: Starting serverStart.js
+[2025-09-03T11:34:00.545Z] 🚀 Server running on http://localhost:3001
+[2025-09-04T05:08:52.432Z] server.js booted
+[2025-09-04T05:08:52.804Z] STEP: Starting serverStart.js
+[2025-09-04T05:08:52.811Z] 🚀 Server running on http://localhost:3001
+[2025-09-05T04:30:21.724Z] server.js booted
+[2025-09-05T04:30:22.029Z] STEP: Starting serverStart.js
+[2025-09-05T04:30:22.034Z] 🚀 Server running on http://localhost:3001
+[2025-09-05T06:01:42.930Z] server.js booted
+[2025-09-05T06:01:43.124Z] STEP: Starting serverStart.js
+[2025-09-05T06:01:43.132Z] 🚀 Server running on http://localhost:3001
+[2025-09-05T07:27:32.250Z] server.js booted
+[2025-09-05T07:27:32.549Z] STEP: Starting serverStart.js
+[2025-09-05T07:27:32.556Z] 🚀 Server running on http://localhost:3001
+[2025-09-05T09:25:29.724Z] server.js booted
+[2025-09-05T09:25:29.948Z] STEP: Starting serverStart.js
+[2025-09-05T09:25:29.953Z] 🚀 Server running on http://localhost:3001
+[2025-09-07T10:45:52.049Z] server.js booted
+[2025-09-07T10:45:52.390Z] STEP: Starting serverStart.js
+[2025-09-07T10:45:52.399Z] 🚀 Server running on http://localhost:3001
+[2025-09-07T11:35:21.000Z] server.js booted
+[2025-09-07T11:35:21.240Z] STEP: Starting serverStart.js
+[2025-09-07T11:35:21.248Z] 🚀 Server running on http://localhost:3001
+[2025-09-07T11:37:17.334Z] server.js booted
+[2025-09-07T11:37:17.552Z] STEP: Starting serverStart.js
+[2025-09-07T11:37:17.558Z] 🚀 Server running on http://localhost:3001
+[2025-09-07T12:31:46.294Z] server.js booted
+[2025-09-07T12:31:46.428Z] STEP: Starting serverStart.js
+[2025-09-07T12:31:46.432Z] 🚀 Server running on http://localhost:3001
+[2025-09-07T12:56:13.731Z] server.js booted
+[2025-09-07T12:56:13.929Z] STEP: Starting serverStart.js
+[2025-09-07T12:56:13.935Z] 🚀 Server running on http://localhost:3001
+[2025-09-08T06:13:55.253Z] server.js booted
+[2025-09-08T06:13:55.481Z] STEP: Starting serverStart.js
+[2025-09-08T06:13:55.487Z] 🚀 Server running on http://localhost:3001
+[2025-09-08T07:21:43.573Z] server.js booted
+[2025-09-08T07:21:43.796Z] STEP: Starting serverStart.js
+[2025-09-08T07:21:43.803Z] 🚀 Server running on http://localhost:3001
+[2025-09-08T08:03:12.021Z] server.js booted
+[2025-09-08T08:03:12.181Z] STEP: Starting serverStart.js
+[2025-09-08T08:03:12.185Z] 🚀 Server running on http://localhost:3001
+[2025-09-08T09:02:11.136Z] server.js booted
+[2025-09-08T09:02:11.380Z] STEP: Starting serverStart.js
+[2025-09-08T09:02:11.386Z] 🚀 Server running on http://localhost:3001
+[2025-09-08T09:03:04.847Z] server.js booted
+[2025-09-08T09:03:05.073Z] STEP: Starting serverStart.js
+[2025-09-08T09:03:05.079Z] 🚀 Server running on http://localhost:3001
+[2025-09-08T10:50:47.549Z] server.js booted
+[2025-09-08T10:50:47.699Z] STEP: Starting serverStart.js
+[2025-09-08T10:50:47.702Z] 🚀 Server running on http://localhost:3001
+[2025-09-08T11:03:38.378Z] server.js booted
+[2025-09-08T11:03:38.527Z] STEP: Starting serverStart.js
+[2025-09-08T11:03:38.532Z] 🚀 Server running on http://localhost:3001
+[2025-09-08T11:46:39.385Z] server.js booted
+[2025-09-08T11:46:39.612Z] STEP: Starting serverStart.js
+[2025-09-08T11:46:39.618Z] 🚀 Server running on http://localhost:3001
+[2025-09-09T03:44:16.148Z] server.js booted
+[2025-09-09T03:44:16.391Z] STEP: Starting serverStart.js
+[2025-09-09T03:44:16.396Z] 🚀 Server running on http://localhost:3001
+[2025-09-09T03:52:57.762Z] server.js booted
+[2025-09-09T03:52:57.964Z] STEP: Starting serverStart.js
+[2025-09-09T03:52:57.972Z] 🚀 Server running on http://localhost:3001
+[2025-09-09T03:53:17.491Z] server.js booted
+[2025-09-09T03:53:17.693Z] STEP: Starting serverStart.js
+[2025-09-09T03:53:17.701Z] 🚀 Server running on http://localhost:3001
+[2025-09-09T03:58:41.251Z] server.js booted
+[2025-09-09T03:58:41.490Z] STEP: Starting serverStart.js
+[2025-09-09T03:58:41.495Z] 🚀 Server running on http://localhost:3001
+[2025-09-09T04:23:50.657Z] server.js booted
+[2025-09-09T04:23:50.859Z] STEP: Starting serverStart.js
+[2025-09-09T04:23:50.865Z] 🚀 Server running on http://localhost:3001
+[2025-09-09T05:19:17.093Z] server.js booted
+[2025-09-09T05:19:17.383Z] STEP: Starting serverStart.js
+[2025-09-09T05:19:17.391Z] 🚀 Server running on http://localhost:3001
+[2025-09-09T05:34:38.666Z] server.js booted
+[2025-09-09T05:34:38.868Z] STEP: Starting serverStart.js
+[2025-09-09T05:34:38.875Z] 🚀 Server running on http://localhost:3001
+[2025-09-11T07:46:57.002Z] server.js booted
+[2025-09-11T07:46:57.316Z] STEP: Starting serverStart.js
+[2025-09-11T07:46:57.323Z] 🚀 Server running on http://localhost:3001
+[2025-09-11T08:06:58.521Z] server.js booted
+[2025-09-11T08:06:58.722Z] STEP: Starting serverStart.js
+[2025-09-11T08:06:58.733Z] 🚀 Server running on http://localhost:3001
+[2025-09-11T08:07:08.095Z] server.js booted
+[2025-09-11T08:07:08.322Z] STEP: Starting serverStart.js
+[2025-09-11T08:07:08.327Z] 🚀 Server running on http://localhost:3001
+[2025-09-11T08:07:29.155Z] server.js booted
+[2025-09-11T08:07:29.364Z] STEP: Starting serverStart.js
+[2025-09-11T08:07:29.369Z] 🚀 Server running on http://localhost:3001
+[2025-09-12T10:26:31.610Z] server.js booted
+[2025-09-12T10:26:31.934Z] STEP: Starting serverStart.js
+[2025-09-12T10:26:31.942Z] 🚀 Server running on http://localhost:3001
+[2025-09-12T10:31:17.557Z] server.js booted
+[2025-09-12T10:31:17.752Z] STEP: Starting serverStart.js
+[2025-09-12T10:31:17.759Z] 🚀 Server running on http://localhost:3001
+[2025-09-12T10:34:38.108Z] server.js booted
+[2025-09-12T10:34:38.325Z] STEP: Starting serverStart.js
+[2025-09-12T10:34:38.333Z] 🚀 Server running on http://localhost:3001
+[2025-09-12T10:42:36.868Z] server.js booted
+[2025-09-12T10:42:37.084Z] STEP: Starting serverStart.js
+[2025-09-12T10:42:37.091Z] 🚀 Server running on http://localhost:3001
+[2025-09-12T10:46:02.922Z] server.js booted
+[2025-09-12T10:46:03.133Z] STEP: Starting serverStart.js
+[2025-09-12T10:46:03.140Z] 🚀 Server running on http://localhost:3001
+[2025-09-13T06:46:00.650Z] server.js booted
+[2025-09-13T06:46:01.000Z] STEP: Starting serverStart.js
+[2025-09-13T06:46:01.007Z] 🚀 Server running on http://localhost:3001
+[2025-09-13T08:41:43.133Z] server.js booted
+[2025-09-13T08:41:43.500Z] STEP: Starting serverStart.js
+[2025-09-13T08:41:43.505Z] 🚀 Server running on http://localhost:3001
+[2025-09-13T08:52:38.522Z] server.js booted
+[2025-09-13T08:52:38.747Z] STEP: Starting serverStart.js
+[2025-09-13T08:52:38.753Z] 🚀 Server running on http://localhost:3001
+[2025-09-15T05:20:18.798Z] server.js booted
+[2025-09-15T05:20:19.146Z] STEP: Starting serverStart.js
+[2025-09-15T05:20:19.153Z] 🚀 Server running on http://localhost:3001
+[2025-09-15T10:46:17.595Z] server.js booted
+[2025-09-15T10:46:17.874Z] STEP: Starting serverStart.js
+[2025-09-15T10:46:17.883Z] 🚀 Server running on http://localhost:3001
+[2025-09-15T12:39:59.799Z] server.js booted
+[2025-09-15T12:40:00.114Z] STEP: Starting serverStart.js
+[2025-09-15T12:40:00.119Z] 🚀 Server running on http://localhost:3001
+[2025-09-16T03:27:28.369Z] server.js booted
+[2025-09-16T03:27:28.750Z] STEP: Starting serverStart.js
+[2025-09-16T03:27:28.756Z] 🚀 Server running on http://localhost:3001
+[2025-09-16T05:40:41.882Z] server.js booted
+[2025-09-16T05:40:42.077Z] STEP: Starting serverStart.js
+[2025-09-16T05:40:42.080Z] 🚀 Server running on http://localhost:3001
+[2025-09-16T05:51:22.913Z] server.js booted
+[2025-09-16T05:51:23.038Z] STEP: Starting serverStart.js
+[2025-09-16T05:51:23.042Z] 🚀 Server running on http://localhost:3001
+[2025-09-16T12:09:46.822Z] server.js booted
+[2025-09-16T12:09:47.184Z] STEP: Starting serverStart.js
+[2025-09-16T12:09:47.190Z] 🚀 Server running on http://localhost:3001
+[2025-09-16T12:10:48.837Z] server.js booted
+[2025-09-16T12:10:49.047Z] STEP: Starting serverStart.js
+[2025-09-16T12:10:49.054Z] 🚀 Server running on http://localhost:3001
+[2025-09-16T12:14:51.229Z] server.js booted
+[2025-09-16T12:14:51.443Z] STEP: Starting serverStart.js
+[2025-09-16T12:14:51.450Z] 🚀 Server running on http://localhost:3001
+[2025-09-16T12:17:29.337Z] server.js booted
+[2025-09-16T12:17:29.539Z] STEP: Starting serverStart.js
+[2025-09-16T12:17:29.544Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T05:06:41.193Z] server.js booted
+[2025-09-17T05:06:41.646Z] STEP: Starting serverStart.js
+[2025-09-17T05:06:41.654Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T07:24:33.679Z] server.js booted
+[2025-09-17T07:24:33.895Z] STEP: Starting serverStart.js
+[2025-09-17T07:24:33.901Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T09:00:13.240Z] server.js booted
+[2025-09-17T09:00:13.650Z] STEP: Starting serverStart.js
+[2025-09-17T09:00:13.657Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T09:06:11.885Z] server.js booted
+[2025-09-17T09:06:12.022Z] STEP: Starting serverStart.js
+[2025-09-17T09:06:12.025Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T09:08:46.054Z] server.js booted
+[2025-09-17T09:08:46.192Z] STEP: Starting serverStart.js
+[2025-09-17T09:08:46.195Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T09:16:10.375Z] server.js booted
+[2025-09-17T09:16:10.508Z] STEP: Starting serverStart.js
+[2025-09-17T09:16:10.512Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T09:17:54.330Z] server.js booted
+[2025-09-17T09:17:54.477Z] STEP: Starting serverStart.js
+[2025-09-17T09:17:54.480Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T09:41:12.500Z] server.js booted
+[2025-09-17T09:41:12.627Z] STEP: Starting serverStart.js
+[2025-09-17T09:41:12.630Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T12:18:50.515Z] server.js booted
+[2025-09-17T12:18:50.774Z] STEP: Starting serverStart.js
+[2025-09-17T12:18:50.779Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T12:54:21.765Z] server.js booted
+[2025-09-17T12:54:21.965Z] STEP: Starting serverStart.js
+[2025-09-17T12:54:21.970Z] 🚀 Server running on http://localhost:3001
+[2025-09-17T13:06:43.004Z] server.js booted
+[2025-09-17T13:06:43.201Z] STEP: Starting serverStart.js
+[2025-09-17T13:06:43.206Z] 🚀 Server running on http://localhost:3001
+[2025-09-18T06:53:30.695Z] server.js booted
+[2025-09-18T06:53:30.911Z] STEP: Starting serverStart.js
+[2025-09-18T06:53:30.919Z] 🚀 Server running on http://localhost:3001
+[2025-09-18T10:37:50.811Z] server.js booted
+[2025-09-18T10:37:51.049Z] STEP: Starting serverStart.js
+[2025-09-18T10:37:51.054Z] 🚀 Server running on http://localhost:3001
+[2025-09-18T10:55:08.476Z] server.js booted
+[2025-09-18T10:55:08.680Z] STEP: Starting serverStart.js
+[2025-09-18T10:55:08.685Z] 🚀 Server running on http://localhost:3001
+[2025-09-19T10:14:36.575Z] server.js booted
+[2025-09-19T10:14:36.844Z] STEP: Starting serverStart.js
+[2025-09-19T10:14:36.850Z] 🚀 Server running on http://localhost:3001
+[2025-09-25T07:32:04.529Z] server.js booted
+[2025-09-25T07:32:04.926Z] STEP: Starting serverStart.js
+[2025-09-25T07:32:04.932Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T05:20:58.281Z] server.js booted
+[2025-09-29T05:20:58.666Z] STEP: Starting serverStart.js
+[2025-09-29T05:20:58.673Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T05:27:08.401Z] server.js booted
+[2025-09-29T05:27:08.604Z] STEP: Starting serverStart.js
+[2025-09-29T05:27:08.610Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T05:34:42.971Z] server.js booted
+[2025-09-29T05:34:43.175Z] STEP: Starting serverStart.js
+[2025-09-29T05:34:43.183Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T05:53:12.613Z] server.js booted
+[2025-09-29T05:53:12.828Z] STEP: Starting serverStart.js
+[2025-09-29T05:53:12.837Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:43:37.814Z] server.js booted
+[2025-09-29T06:43:38.040Z] Error loading serverStart: Error: Cannot find module './forceSyncGroups'
+Require stack:
+- D:\Community-edition\serverStart.js
+- D:\Community-edition\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Community-edition\serverStart.js:12:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-09-29T06:44:10.723Z] server.js booted
+[2025-09-29T06:44:10.939Z] STEP: Starting serverStart.js
+[2025-09-29T06:44:10.946Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:44:45.840Z] server.js booted
+[2025-09-29T06:44:46.030Z] STEP: Starting serverStart.js
+[2025-09-29T06:44:46.035Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:45:14.121Z] server.js booted
+[2025-09-29T06:45:14.322Z] STEP: Starting serverStart.js
+[2025-09-29T06:45:14.330Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:46:10.038Z] server.js booted
+[2025-09-29T06:46:10.267Z] Error loading serverStart: Error: Cannot find module './forceSyncGroups'
+Require stack:
+- D:\Community-edition\serverStart.js
+- D:\Community-edition\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Community-edition\serverStart.js:12:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-09-29T06:46:20.979Z] server.js booted
+[2025-09-29T06:46:21.169Z] STEP: Starting serverStart.js
+[2025-09-29T06:46:21.177Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:46:43.542Z] server.js booted
+[2025-09-29T06:46:43.734Z] STEP: Starting serverStart.js
+[2025-09-29T06:46:43.739Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:47:35.223Z] server.js booted
+[2025-09-29T06:47:35.428Z] STEP: Starting serverStart.js
+[2025-09-29T06:47:35.435Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:48:25.709Z] server.js booted
+[2025-09-29T06:48:25.900Z] STEP: Starting serverStart.js
+[2025-09-29T06:48:25.907Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:49:57.377Z] server.js booted
+[2025-09-29T06:49:57.593Z] STEP: Starting serverStart.js
+[2025-09-29T06:49:57.599Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:57:30.598Z] server.js booted
+[2025-09-29T06:57:30.792Z] STEP: Starting serverStart.js
+[2025-09-29T06:57:30.800Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T06:59:36.248Z] server.js booted
+[2025-09-29T06:59:36.443Z] STEP: Starting serverStart.js
+[2025-09-29T06:59:36.449Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T07:02:58.308Z] server.js booted
+[2025-09-29T07:02:58.496Z] STEP: Starting serverStart.js
+[2025-09-29T07:02:58.503Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T07:07:02.174Z] server.js booted
+[2025-09-29T07:07:02.373Z] STEP: Starting serverStart.js
+[2025-09-29T07:07:02.380Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T07:07:26.822Z] server.js booted
+[2025-09-29T07:07:27.013Z] STEP: Starting serverStart.js
+[2025-09-29T07:07:27.020Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T07:15:47.163Z] server.js booted
+[2025-09-29T07:15:47.382Z] STEP: Starting serverStart.js
+[2025-09-29T07:15:47.389Z] 🚀 Server running on http://localhost:3001
+[2025-09-29T07:19:36.528Z] server.js booted
+[2025-09-29T07:19:36.719Z] STEP: Starting serverStart.js
+[2025-09-29T07:19:36.724Z] 🚀 Server running on http://localhost:3001
+[2025-10-01T09:59:05.879Z] server.js booted
+[2025-10-01T09:59:06.296Z] STEP: Starting serverStart.js
+[2025-10-01T09:59:06.301Z] 🚀 Server running on http://localhost:3001
+[2025-10-01T11:59:27.547Z] server.js booted
+[2025-10-01T11:59:27.672Z] STEP: Starting serverStart.js
+[2025-10-01T11:59:27.676Z] 🚀 Server running on http://localhost:3001
+[2025-10-05T09:03:15.001Z] server.js booted
+[2025-10-05T09:03:15.206Z] STEP: Starting serverStart.js
+[2025-10-05T09:03:15.210Z] 🚀 Server running on http://localhost:3001
+[2025-10-08T10:29:48.975Z] server.js booted
+[2025-10-08T10:29:49.710Z] STEP: Starting serverStart.js
+[2025-10-08T10:29:49.718Z] 🚀 Server running on http://localhost:3001
+[2025-10-08T10:30:16.201Z] Unhandled Rejection: Error: [fetchJSON] 404 - {"error":{"code":"Request_ResourceNotFound","message":"Resource '5e13dc3d-bc36-48bf-bc15-486e35999387' does not exist or one of its queried reference-property objects are not present.","innerError":{"date":"2025-10-08T10:30:13","request-id":"ae526862-81e0-4c63-899a-7323fce78745","client-request-id":"ae526862-81e0-4c63-899a-7323fce78745"}}}
+    at fetchJSON (D:\Community-edition\syncGroups.js:10:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Statement.<anonymous> (D:\Community-edition\syncGroups.js:127:32)
+[2025-10-10T05:00:26.948Z] server.js booted
+[2025-10-10T05:00:27.271Z] STEP: Starting serverStart.js
+[2025-10-10T05:00:27.274Z] 🚀 Server running on http://localhost:3001
+[2025-10-13T07:03:38.720Z] server.js booted
+[2025-10-13T07:03:39.024Z] STEP: Starting serverStart.js
+[2025-10-13T07:03:39.031Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:07:20.661Z] server.js booted
+[2025-10-14T06:07:21.051Z] STEP: Starting serverStart.js
+[2025-10-14T06:07:21.058Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:21:38.563Z] server.js booted
+[2025-10-14T06:21:38.778Z] STEP: Starting serverStart.js
+[2025-10-14T06:21:38.789Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:22:38.914Z] server.js booted
+[2025-10-14T06:22:39.109Z] STEP: Starting serverStart.js
+[2025-10-14T06:22:39.117Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:24:22.016Z] server.js booted
+[2025-10-14T06:24:22.213Z] STEP: Starting serverStart.js
+[2025-10-14T06:24:22.220Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:24:35.729Z] server.js booted
+[2025-10-14T06:24:35.934Z] STEP: Starting serverStart.js
+[2025-10-14T06:24:35.941Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:27:42.355Z] server.js booted
+[2025-10-14T06:27:42.570Z] STEP: Starting serverStart.js
+[2025-10-14T06:27:42.577Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:32:53.676Z] server.js booted
+[2025-10-14T06:32:53.906Z] Error loading serverStart: Error: Cannot find module './forceSyncGroups'
+Require stack:
+- D:\Community-edition-publish-version\serverStart.js
+- D:\Community-edition-publish-version\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Community-edition-publish-version\serverStart.js:12:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-10-14T06:33:57.785Z] server.js booted
+[2025-10-14T06:33:57.976Z] Error loading serverStart: Error: Cannot find module './forceSyncGroups'
+Require stack:
+- D:\Community-edition-publish-version\serverStart.js
+- D:\Community-edition-publish-version\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Community-edition-publish-version\serverStart.js:12:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+[2025-10-14T06:38:29.179Z] server.js booted
+[2025-10-14T06:38:29.372Z] STEP: Starting serverStart.js
+[2025-10-14T06:38:29.379Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:45:12.430Z] server.js booted
+[2025-10-14T06:45:12.621Z] STEP: Starting serverStart.js
+[2025-10-14T06:45:12.630Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T06:47:22.306Z] server.js booted
+[2025-10-14T06:47:22.502Z] STEP: Starting serverStart.js
+[2025-10-14T06:47:22.507Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T07:05:39.965Z] server.js booted
+[2025-10-14T07:05:40.160Z] STEP: Starting serverStart.js
+[2025-10-14T07:05:40.166Z] 🚀 Server running on http://localhost:3001
+[2025-10-14T07:05:46.825Z] server.js booted
+[2025-10-14T07:05:47.014Z] STEP: Starting serverStart.js
+[2025-10-14T07:05:47.021Z] 🚀 Server running on http://localhost:3001
+[2025-10-15T05:46:08.726Z] server.js booted
+[2025-10-15T05:46:09.050Z] STEP: Starting serverStart.js
+[2025-10-15T05:46:09.057Z] 🚀 Server running on http://localhost:3001
+[2025-10-18T13:26:53.615Z] server.js booted
+[2025-10-18T13:26:53.860Z] STEP: Starting serverStart.js
+[2025-10-18T13:26:53.867Z] 🚀 Server running on http://localhost:3001
+[2025-10-19T06:20:14.599Z] server.js booted
+[2025-10-19T06:20:14.752Z] STEP: Starting serverStart.js
+[2025-10-19T06:20:14.756Z] 🚀 Server running on http://localhost:3001
+[2025-10-22T07:53:48.056Z] server.js booted
+[2025-10-22T07:53:48.277Z] STEP: Starting serverStart.js
+[2025-10-22T07:53:48.283Z] 🚀 Server running on http://localhost:3001
+[2025-10-23T05:00:10.705Z] server.js booted
+[2025-10-23T05:00:10.901Z] STEP: Starting serverStart.js
+[2025-10-23T05:00:10.907Z] 🚀 Server running on http://localhost:3001
+[2025-10-24T10:24:53.065Z] server.js booted
+[2025-10-24T10:24:53.405Z] STEP: Starting serverStart.js
+[2025-10-24T10:24:53.413Z] 🚀 Server running on http://localhost:3001
+[2025-10-24T11:39:32.388Z] server.js booted
+[2025-10-24T11:39:32.562Z] STEP: Starting serverStart.js
+[2025-10-24T11:39:32.566Z] 🚀 Server running on http://localhost:3001
+[2025-10-25T05:35:21.354Z] server.js booted
+[2025-10-25T05:35:21.587Z] STEP: Starting serverStart.js
+[2025-10-25T05:35:21.592Z] 🚀 Server running on http://localhost:3001
+[2025-10-25T06:19:33.659Z] server.js booted
+[2025-10-25T06:19:33.899Z] STEP: Starting serverStart.js
+[2025-10-25T06:19:33.905Z] 🚀 Server running on http://localhost:3001
+[2025-10-25T06:59:58.844Z] server.js booted
+[2025-10-25T06:59:59.102Z] STEP: Starting serverStart.js
+[2025-10-25T06:59:59.110Z] 🚀 Server running on http://localhost:3001
+[2025-10-25T07:05:16.639Z] server.js booted
+[2025-10-25T07:05:16.764Z] STEP: Starting serverStart.js
+[2025-10-25T07:05:16.768Z] 🚀 Server running on http://localhost:3001
+[2025-10-26T05:35:47.463Z] server.js booted
+[2025-10-26T05:35:47.601Z] STEP: Starting serverStart.js
+[2025-10-26T05:35:47.605Z] 🚀 Server running on http://localhost:3001
+[2025-10-27T06:32:08.811Z] server.js booted
+[2025-10-27T06:32:08.967Z] STEP: Starting serverStart.js
+[2025-10-27T06:32:08.974Z] 🚀 Server running on http://localhost:3001

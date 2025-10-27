@@ -1,0 +1,37 @@
+{
+  "name": "premium-tool-backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "bin": "serverStart.js",
+  "pkg": {
+    "scripts": ["serverStart.js"],
+    "assets": [
+      "public/**/*",
+      "routes/**/*",
+      "utils/**/*",
+      "downloads/**/*",
+      ".env",
+      "premium-tool-3.db",
+      "node_modules/sqlite3/build/Release/node_sqlite3.node"
+    ],
+    
+    "targets": [
+      "node18-win-x64",
+      "node18-linux-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "dependencies": {
+    "@azure/msal-node": "^3.6.0",
+    "cli-progress": "^3.12.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "nodemailer": "^7.0.3",
+    "sqlite3": "^5.1.7"
+  }
+}

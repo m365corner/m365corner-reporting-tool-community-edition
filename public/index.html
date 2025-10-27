@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Premium Tool Dashboard</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+      .modal-overlay {
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: rgba(0,0,0,0.5);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          z-index: 999;
+      }
+
+      .modal-content {
+          background: #fff;
+          padding: 20px;
+          border-radius: 10px;
+          width: 90%;
+          max-width: 400px;
+          position: relative;
+          box-shadow: 0 0 10px rgba(0,0,0,0.25);
+      }
+
+      .close-btn {
+          position: absolute;
+          top: 8px;
+          right: 12px;
+          font-size: 20px;
+          cursor: pointer;
+      }
+
+  </style>
+</head>
+<body class="bg-light">
+
+    <div class="container py-5">
+        <h1 class="mb-4">M365 Reporting Tool Admin Panel</h1>
+
+        <div class="mb-4">
+            <button id="loginBtn" class="btn btn-primary me-2">Login with Microsoft</button>
+            <button id="logoutBtn" class="btn btn-outline-danger me-2">Logout</button>
+            <button id="syncBtn" class="btn btn-success me-3">Sync Users</button>
+            <button id="syncBtnGroups" class="btn btn-success me-3">Sync Groups</button>
+            <button id="syncBtnTeams" class="btn btn-success me-3">Sync Teams</button>
+            <br /><br />
+
+            <!-- NEW REPORT BUTTONS -->
+            <button id="allUsersBtn" class="btn btn-outline-dark">All Users</button>
+            <button id="disabledUsersBtn" class="btn btn-outline-dark">Disabled Users</button>
+            <button id="enabledUsersBtn" class="btn btn-outline-dark">Enabled Users</button>
+            <button id="licensedUsersBtn" class="btn btn-outline-dark">Licensed Users</button>
+            <button id="unlicensedUsersBtn" class="btn btn-outline-dark">Unlicensed Users</button>
+            <br /> <br />
+            <button id="distributionGroupsBtn" class="btn btn-outline-dark">Distribution Groups</button>
+            <button id="securityGroupsBtn" class="btn btn-outline-dark">Security Groups</button>
+            <button id="mailEnabledSecurityGroupsBtn" class="btn btn-outline-dark">Mail-enabled Security Groups</button>
+            <button id="emptyGroupsBtn" class="btn btn-outline-dark">Empty Groups</button>
+            <button id="recentlyCreatedGroupsBtn" class="btn btn-outline-dark">Recently Created Groups</button>
+            <br /> <br />
+            <button id="allGroupsBtn" class="btn btn-outline-dark">All Groups</button>
+            <button id="unifiedGroupsBtn" class="btn btn-outline-dark">Unified Groups</button>
+            <button id="groupMembersBtn" class="btn btn-outline-dark">Group Members</button>
+            <button id="btn-groups-owners" class="btn btn-outline-dark">Group Owners Report</button>
+            <button id="disabled-user-groups" class="btn btn-outline-dark">Groups With Disabled Users</button>
+            <br /><br />
+            <button id="allTeamsBtn" class="btn btn-outline-dark">All Teams</button>
+            <button id="publicTeamsBtn" class="btn btn-outline-dark">Public Teams</button>
+            <button id="privateTeamsBtn" class="btn btn-outline-dark">Private Teams</button>
+            <button id="hiddenTeamsBtn" class="btn btn-outline-dark">Hidden Membership Teams</button>
+            <button id="archivedTeamsBtn" class="btn btn-outline-dark">Archived Teams</button>
+            <br /><br />
+            <button id="nodescTeamsBtn" class="btn btn-outline-dark">Teams Without Description</button>
+            <button id="teamsPvtChannels" class="btn btn-outline-dark">Teams With Private Channels</button>
+            <button id="teamsSharedChannels" class="btn btn-outline-dark">Teams With Shared Channels</button>
+            <button id="recentTeamsBtn" class="btn btn-outline-dark">Recently Created Teams</button>
+            <button id="teamOwnersBtn" class="btn btn-outline-dark">Team Owners</button>
+            
+</div>
+
+        <div id="statusMessage" class="mt-3 text-muted"></div>
+
+        <!-- NEW REPORT RENDER TARGET -->
+        <h2 id="reportName"></h2><br />
+        <span id="sfields"> </span>
+        <div id="reportContent" class="mt-4"></div>
+
+
+
+
+        <div id="tenantModal" class="modal-overlay" style="display:none;">
+            <div class="modal-content">
+                <span class="close-btn" onclick="closeTenantModal()">&times;</span>
+                <h5 class="mb-3">Register Tenant Details</h5>
+                <form id="tenantForm">
+                    <div class="mb-2">
+                        <input type="text" id="tenantIdInput" class="form-control" placeholder="Enter Tenant ID" required>
+                    </div>
+                    <div class="mb-2">
+                        <input type="text" id="clientIdInput" class="form-control" placeholder="Enter Client ID" required>
+                    </div>
+                    <div class="mb-2">
+                        <input type="password" id="clientSecretInput" class="form-control" placeholder="Enter Client Secret" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Save</button>
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+  <script src="./scripts/main.js"></script>
+</body>
+</html>
