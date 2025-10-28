@@ -22,10 +22,13 @@
         Once you have the Entra ID or Azure AD app details [<strong>tenantId, clientId and clientSecret</strong>], you should add them to .env file, along with your <b>email credentials</b> [username and password <or security passcode, depending upon your email account security requirements>
             ], to register your tenant with M365Corner Reporting Tool.
     </li>
+    <img src="https://m365corner.com/m365-free-tools/img/env-file-details.png" />
 </ul>
 <strong>Command for Running M365Corner Reporting Tool (within the project folder):</strong>
 <ul>
     <li>node server.js</li>
+    <img src="https://m365corner.com/m365-free-tools/img/run-command.png"/>
+    
 </ul>
 
 <strong>Packaging Command for M365Corner Reporting Tool (to run it as stand-alone application or exe)</strong>
