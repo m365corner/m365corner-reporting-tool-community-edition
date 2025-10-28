@@ -50,5 +50,5 @@
    
 
 <p>For more info on how to operate the reporting tool, read the <b>help documentation</b>: https://m365corner.com/m365-free-tools/community-edition-techdoc.docx</p>   
-<p>For more info on <b>M365Corner Reporting Tool and the reports it has to offer</b>, along with their demos read: https://m365corner.com/m365-free-tools/m365-corner-reporting-tool.html</p>
+<p>For more info on <b>M365Corner Reporting Tool and the reports it has to offer</b>, along with their demos read: <a href="https://m365corner.com/m365-free-tools/m365corner-reporting-tool.html">https://m365corner.com/m365-free-tools/m365corner-reporting-tool.html</p>
 
