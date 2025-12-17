@@ -1,9 +1,4 @@
-﻿
-
-
-
-
-document.getElementById("loginBtn").addEventListener("click", async () => {
+﻿document.getElementById("loginBtn").addEventListener("click", async () => {
     try {
         const res = await fetch("/login");
         const data = await res.json();
@@ -831,7 +826,7 @@ async function triggerEmailSend(data) {
         const res = await fetch("http://localhost:3001/report/email", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ data, recipient })
+            body: JSON.stringify({ data, recipient, reportKey: currentRoute })
         });
 
         const result = await res.json();

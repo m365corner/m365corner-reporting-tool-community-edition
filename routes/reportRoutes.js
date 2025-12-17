@@ -345,34 +345,47 @@ router.post('/report/download', async (req, res) => {
 
 // EMAIL CSV
 router.post('/report/email', async (req, res) => {
-  const { data, recipient } = req.body;
+    const { data, recipient, reportKey } = req.body;
 
-  if (!recipient) {
-    return res.status(400).json({ status: "error", message: "Recipient email is required." });
-  }
-
-  try {
-    const users = Array.isArray(data) && data.length > 0
-      ? data
-      : await runQueryAsync("SELECT * FROM users");
-
-    if (!users || users.length === 0) {
-      return res.status(400).json({ status: "error", message: "No user data available." });
+    if (!recipient) {
+        return res.status(400).json({ status: "error", message: "Recipient email is required." });
     }
 
-    const { csv, filename } = await exportToCSVString(users, 'all_users_report');
-
-    if (!csv || typeof csv !== 'string') {
-      throw new Error("Invalid CSV string generated.");
+    if (!reportKey) {
+        return res.status(400).json({ status: "error", message: "Missing reportKey." });
     }
 
-    await sendReportByEmail(recipient, csv, filename);
-    res.json({ status: "success", message: "Report sent successfully!" });
-  } catch (err) {
-    console.error("❌ Email failed:", err.message);
-    res.status(500).json({ status: "error", message: "Failed to send report" });
-  }
+    try {
+        const records = Array.isArray(data) && data.length > 0
+            ? data
+            : await runQueryAsync("SELECT * FROM users");
+
+        if (!records || records.length === 0) {
+            return res.status(400).json({ status: "error", message: "No data available." });
+        }
+
+        // Pick filename base dynamically
+        const baseFileName = reportKey.replace(/\//g, "_"); // safe fallback
+
+        const { csv, filename } = await exportToCSVString(records, baseFileName);
+
+        if (!csv) throw new Error("CSV generation failed.");
+
+        await sendReportByEmail({
+            recipient,
+            csvData: csv,
+            filename,
+            reportKey
+        });
+
+        res.json({ status: "success", message: "Report sent successfully!" });
+
+    } catch (err) {
+        console.error("❌ Email failed:", err.message);
+        res.status(500).json({ status: "error", message: "Failed to send report" });
+    }
 });
+
 
 /******************************* GROUPS RELATED REPORTS ***********************************/
 
