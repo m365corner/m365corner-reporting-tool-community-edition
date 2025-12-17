@@ -49,11 +49,16 @@
     <li><b>.env file</b></li>
     <li><b>mocha.db file</b> (optional) – mocha.db gets generated when you run the exe. So, including mocha.db file in the /dist folder is optional.</li>
 </ul>
+
     
    
 
 <p>For more info on how to operate the reporting tool, read the <b>help documentation</b>: https://m365corner.com/m365-free-tools/community-edition-techdoc.docx</p>   
 <p>For more info on <b>M365Corner Reporting Tool and the reports it has to offer</b>, along with their demos read: <a href="https://m365corner.com/m365-free-tools/m365corner-reporting-tool.html">https://m365corner.com/m365-free-tools/m365corner-reporting-tool.html</p>
+
+
+<p><strong>### Updates</strong></p>
+<p>-Refactored mailer functionality to support dynamic report types (previously hardcoded to user reports)</p>
 
 
 
