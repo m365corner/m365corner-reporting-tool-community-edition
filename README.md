@@ -1,5 +1,6 @@
 <h2>M365Corner Reporting Tool</h2>
 <p>The M365Corner Reporting Tool is a Microsoft 365 reporting solution designed to simplify tenant management for administrators. Currently, it offers <b>25 customizable reports</b> that provide actionable insights into <b>Users, Groups, and Teams resources</b>. Reports can be exported and shared with other admins or stakeholders via email.</p>
+
 <strong>Example Reports Include:</strong><br/>
 <ul>
     <li>Disabled Users Report</li>
@@ -8,7 +9,7 @@
     <li>Archived Teams Report</li>
     <li>Team Owners Report</li>
 </ul>
-
+<p>⭐ If this saves you time, consider starring the repo — it helps the project grow.</p>
 <h2><strong>Tool Demo:</strong></h2>
 <img src="community-edition-demo.gif" width="800"/>
   
