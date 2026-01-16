@@ -59,6 +59,13 @@
 
 
 <p><strong>### Updates</strong></p>
+
+<p><strong>### UI Enhancements</strong></p>
+<li>Redesigned report navigation by introducing a left-hand side (LHS) menu</li>
+<li> Grouped related reports under collapsible sections for Users, Groups, and Teams</li>
+<li>Improved report readability and overall user experience by decluttering the main workspace</li>
+<br/>
+<p><strong>### Functional Enhancements</strong></p> 
 <p>-Refactored mailer functionality to support dynamic report types (previously hardcoded to user reports)</p>
 
 
