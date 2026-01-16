@@ -11,7 +11,7 @@
 </ul>
 <p>⭐ If this saves you time, consider starring the repo — it helps the project grow.</p>
 <h2><strong>Tool Demo:</strong></h2>
-<img src="community-edition-demo.gif" width="800"/>
+<img src="community-edition-updated-demo.gif" width="800"/>
   
 <strong>Prerequisites:</strong>
 
