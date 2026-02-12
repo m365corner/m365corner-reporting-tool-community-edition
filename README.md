@@ -64,6 +64,10 @@
 <li>Redesigned report navigation by introducing a left-hand side (LHS) menu</li>
 <li> Grouped related reports under collapsible sections for Users, Groups, and Teams</li>
 <li>Improved report readability and overall user experience by decluttering the main workspace</li>
+<li>Added sidebar search to quickly locate reports</li>
+<li>Implemented active report highlighting for better navigation clarity</li>
+<li>Introduced sticky sidebar behavior for improved usability</li>
+<img src="tool-ui-enhancement.gif"/>
 <br/>
 <p><strong>### Functional Enhancements</strong></p> 
 <p>-Refactored mailer functionality to support dynamic report types (previously hardcoded to user reports)</p>
