@@ -2726,3 +2726,57 @@ Require stack:
 [2025-10-27T06:32:08.811Z] server.js booted
 [2025-10-27T06:32:08.967Z] STEP: Starting serverStart.js
 [2025-10-27T06:32:08.974Z] 🚀 Server running on http://localhost:3001
+[2026-01-16T08:37:05.230Z] server.js booted
+[2026-01-16T08:37:05.545Z] STEP: Starting serverStart.js
+[2026-01-16T08:37:05.550Z] 🚀 Server running on http://localhost:3001
+[2026-01-16T08:37:15.284Z] Login failed: SyntaxError: Unexpected token < in JSON at position 4
+    at JSON.parse (<anonymous>)
+    at Response.json (node:internal/deps/undici/undici:6160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getTokenAppOnly (D:\Community-edition-publish-version\auth.js:34:18)
+    at async D:\Community-edition-publish-version\serverStart.js:61:21
+[2026-01-16T10:13:21.735Z] server.js booted
+[2026-01-16T10:13:22.061Z] STEP: Starting serverStart.js
+[2026-01-16T10:13:22.066Z] 🚀 Server running on http://localhost:3001
+[2026-01-16T10:13:26.750Z] Login failed: SyntaxError: Unexpected token < in JSON at position 4
+    at JSON.parse (<anonymous>)
+    at Response.json (node:internal/deps/undici/undici:6160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getTokenAppOnly (D:\Community-edition-publish-version\auth.js:34:18)
+    at async D:\Community-edition-publish-version\serverStart.js:61:21
+[2026-01-16T10:13:57.233Z] server.js booted
+[2026-01-16T10:13:57.447Z] STEP: Starting serverStart.js
+[2026-01-16T10:13:57.452Z] 🚀 Server running on http://localhost:3001
+[2026-01-16T10:14:37.231Z] server.js booted
+[2026-01-16T10:14:37.427Z] STEP: Starting serverStart.js
+[2026-01-16T10:14:37.431Z] 🚀 Server running on http://localhost:3001
+[2026-01-16T10:18:48.343Z] server.js booted
+[2026-01-16T10:18:48.559Z] STEP: Starting serverStart.js
+[2026-01-16T10:18:48.564Z] 🚀 Server running on http://localhost:3001
+[2026-02-10T03:59:00.625Z] server.js booted
+[2026-02-10T03:59:00.990Z] STEP: Starting serverStart.js
+[2026-02-10T03:59:00.996Z] 🚀 Server running on http://localhost:3001
+[2026-02-10T04:10:35.504Z] server.js booted
+[2026-02-10T04:10:35.716Z] STEP: Starting serverStart.js
+[2026-02-10T04:10:35.769Z] 🚀 Server running on http://localhost:3001
+[2026-02-10T04:14:11.722Z] server.js booted
+[2026-02-10T04:14:11.929Z] STEP: Starting serverStart.js
+[2026-02-10T04:14:11.935Z] 🚀 Server running on http://localhost:3001
+[2026-02-10T04:35:30.175Z] server.js booted
+[2026-02-10T04:35:30.380Z] STEP: Starting serverStart.js
+[2026-02-10T04:35:30.384Z] 🚀 Server running on http://localhost:3001
+[2026-02-12T03:51:21.560Z] server.js booted
+[2026-02-12T03:51:21.897Z] STEP: Starting serverStart.js
+[2026-02-12T03:51:21.901Z] 🚀 Server running on http://localhost:3001
+[2026-02-12T03:52:04.977Z] server.js booted
+[2026-02-12T03:52:05.192Z] STEP: Starting serverStart.js
+[2026-02-12T03:52:05.198Z] 🚀 Server running on http://localhost:3001
+[2026-02-12T03:53:02.794Z] server.js booted
+[2026-02-12T03:53:03.001Z] STEP: Starting serverStart.js
+[2026-02-12T03:53:03.006Z] 🚀 Server running on http://localhost:3001
+[2026-02-12T04:19:50.306Z] server.js booted
+[2026-02-12T04:19:50.473Z] STEP: Starting serverStart.js
+[2026-02-12T04:19:50.476Z] 🚀 Server running on http://localhost:3001
+[2026-02-12T04:21:42.059Z] server.js booted
+[2026-02-12T04:21:42.180Z] STEP: Starting serverStart.js
+[2026-02-12T04:21:42.183Z] 🚀 Server running on http://localhost:3001

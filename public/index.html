@@ -18,20 +18,28 @@
 
         /* LEFT SIDEBAR */
         .sidebar {
-            width: 300px; /* fixed width */
-            flex-shrink: 0; /* prevent squeeze */
+            width: 300px;
+            flex-shrink: 0;
             background: #ffffff;
             border-radius: 8px;
             padding: 15px;
             box-shadow: 0 0 8px rgba(0,0,0,0.05);
-            height: fit-content;
+            /* Sticky behavior */
+            position: sticky;
+            top: 20px;
+            max-height: calc(100vh - 40px);
+            overflow-y: auto;
         }
 
             .sidebar h5 {
-                margin-bottom: 15px;
+                margin-bottom: 10px;
                 font-weight: 600;
                 text-align: center;
             }
+
+        .sidebar-search {
+            margin-bottom: 12px;
+        }
 
         details {
             margin-bottom: 10px;
@@ -65,10 +73,17 @@
                 text-align: left;
             }
 
+        /* Active report highlight */
+        .active-report {
+            background-color: #0d6efd !important;
+            color: #fff !important;
+            border-color: #0d6efd !important;
+        }
+
         /* RIGHT CONTENT */
         .content {
             flex: 1;
-            min-width: 0; /* important for horizontal scrolling tables */
+            min-width: 0;
         }
 
         /* TOP CENTERED ACTIONS */
@@ -78,6 +93,19 @@
             flex-wrap: wrap;
             gap: 10px;
             margin-bottom: 15px;
+        }
+
+        /* MOBILE RESPONSIVE */
+        @media (max-width: 992px) {
+            .layout {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                position: relative;
+                max-height: none;
+            }
         }
     </style>
 </head>
@@ -89,7 +117,7 @@
         <!-- CENTERED HEADER + ACTIONS -->
         <div class="text-center mb-4">
             <h1 class="mb-3">M365 Reporting Tool – Community Edition</h1>
-            <p>Note: DB Syncs should be run once in every 7 days</p><br/>
+            <p>Note: DB Syncs should be run once in every 7 days</p><br />
 
             <div class="top-actions">
                 <button id="loginBtn" class="btn btn-primary">Login with Microsoft</button>
@@ -107,6 +135,12 @@
             <!-- LEFT REPORT MENU -->
             <aside class="sidebar">
                 <h5>Reports</h5>
+
+                <!-- Search -->
+                <input type="text"
+                       id="reportSearch"
+                       class="form-control sidebar-search"
+                       placeholder="Search reports..." />
 
                 <!-- USERS -->
                 <details open>
@@ -166,6 +200,87 @@
 
     </div>
 
+    <!-- EXISTING LOGIC -->
     <script src="./scripts/main.js"></script>
+
+    <!-- NEW UI ENHANCEMENTS -->
+    <script>
+        /* ===========================
+           Sidebar Search
+        =========================== */
+        document.getElementById("reportSearch").addEventListener("input", function () {
+            const term = this.value.toLowerCase();
+            const allButtons = document.querySelectorAll(".menu-group button");
+            const allDetails = document.querySelectorAll("aside.sidebar details");
+
+            allDetails.forEach(d => d.open = false);
+
+            allButtons.forEach(btn => {
+                const match = btn.textContent.toLowerCase().includes(term);
+                btn.style.display = match ? "block" : "none";
+                if (match) {
+                    btn.closest("details").open = true;
+                }
+            });
+
+            if (!term) {
+                allButtons.forEach(btn => btn.style.display = "block");
+                document.querySelector("aside.sidebar details").open = true;
+            }
+        });
+
+        /* ===========================
+           Active Report Highlight
+        =========================== */
+        function setActiveReport(route) {
+            document
+                .querySelectorAll(".menu-group button")
+                .forEach(btn => btn.classList.remove("active-report"));
+
+            const map = {
+                "all": "allUsersBtn",
+                "enabled": "enabledUsersBtn",
+                "disabled": "disabledUsersBtn",
+                "licensed": "licensedUsersBtn",
+                "unlicensed": "unlicensedUsersBtn",
+
+                "groups/all": "allGroupsBtn",
+                "groups/unified": "unifiedGroupsBtn",
+                "groups/distribution": "distributionGroupsBtn",
+                "groups/security-enabled": "securityGroupsBtn",
+                "groups/mail-enabled-security": "mailEnabledSecurityGroupsBtn",
+                "groups/empty": "emptyGroupsBtn",
+                "groups/recently-created": "recentlyCreatedGroupsBtn",
+                "groups/members": "groupMembersBtn",
+                "groups/owners": "btn-groups-owners",
+                "groups/disabled-members": "disabled-user-groups",
+
+                "teams/all": "allTeamsBtn",
+                "teams/public": "publicTeamsBtn",
+                "teams/private": "privateTeamsBtn",
+                "teams/hidden-memberships": "hiddenTeamsBtn",
+                "teams/archived": "archivedTeamsBtn",
+                "teams/teams-without-description": "nodescTeamsBtn",
+                "teams/teams-private-channels": "teamsPvtChannels",
+                "teams/teams-shared-channels": "teamsSharedChannels",
+                "teams/recently-created-teams": "recentTeamsBtn",
+                "teams/teams-owners": "teamOwnersBtn"
+            };
+
+            const btnId = map[route];
+            if (btnId) {
+                const btn = document.getElementById(btnId);
+                if (btn) btn.classList.add("active-report");
+            }
+        }
+
+        /* Hook into existing fetchReport */
+        const _fetchReport = window.fetchReport;
+        window.fetchReport = function (route, page = 1) {
+            setActiveReport(route);
+            return _fetchReport(route, page);
+        };
+    </script>
+
 </body>
 </html>
